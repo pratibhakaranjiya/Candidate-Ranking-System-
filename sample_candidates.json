@@ -1,0 +1,6533 @@
+[
+  {
+    "candidate_id": "CAND_001",
+    "name": "Elijah Smith",
+    "current_title": "Software Engineer",
+    "years_of_experience": 6.0,
+    "skills": [
+      "Marketing",
+      "CSS",
+      "Git",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Software Engineer",
+        "duration_years": 6.0
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.47,
+      "interview_completion_rate": 0.48,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-07-18",
+      "notice_period_days": 90,
+      "profile_completeness": 0.95,
+      "github_activity_score": 17.8
+    }
+  },
+  {
+    "candidate_id": "CAND_002",
+    "name": "Liam Moore",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 8.0,
+    "skills": [
+      "Scikit-Learn",
+      "BERT",
+      "Transformers",
+      "PyTorch",
+      "Python",
+      "TensorFlow",
+      "Neural Networks",
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 4.8
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 3.2
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.87,
+      "interview_completion_rate": 0.87,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-31",
+      "notice_period_days": 15,
+      "profile_completeness": 0.64,
+      "github_activity_score": 88.2
+    }
+  },
+  {
+    "candidate_id": "CAND_003",
+    "name": "Kenji Brown",
+    "current_title": "Software Engineer",
+    "years_of_experience": 3.8,
+    "skills": [
+      "Scikit-Learn",
+      "PyTorch"
+    ],
+    "career_history": [
+      {
+        "title": "Software Engineer",
+        "duration_years": 3.8
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.56,
+      "interview_completion_rate": 0.73,
+      "open_to_work_flag": false,
+      "notice_period_days": 15,
+      "profile_completeness": 0.85,
+      "github_activity_score": 14.1
+    }
+  },
+  {
+    "candidate_id": "CAND_004",
+    "name": "Logan Anderson",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 9.5,
+    "skills": [
+      "BERT",
+      "Git",
+      "Docker",
+      "Computer Vision",
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 3.8
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 3.8
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 1.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.56,
+      "interview_completion_rate": 0.62,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-07-21",
+      "notice_period_days": 30,
+      "profile_completeness": 0.85,
+      "github_activity_score": 71.5
+    }
+  },
+  {
+    "candidate_id": "CAND_005",
+    "name": "Yuki Davis",
+    "current_title": "System Administrator",
+    "years_of_experience": 4.5,
+    "skills": [
+      "Marketing",
+      "Git",
+      "Node.js",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "System Administrator",
+        "duration_years": 4.5
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.89,
+      "interview_completion_rate": 0.87,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-13",
+      "notice_period_days": 120,
+      "profile_completeness": 0.66,
+      "github_activity_score": 34.1
+    }
+  },
+  {
+    "candidate_id": "CAND_006",
+    "name": "Henry Jones",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 5.9,
+    "skills": [
+      "LLMs",
+      "Machine Learning",
+      "PyTorch",
+      "Computer Vision",
+      "TensorFlow",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "Python",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 3.5
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 2.4
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.81,
+      "interview_completion_rate": 0.88,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-25",
+      "notice_period_days": 45,
+      "profile_completeness": 0.95,
+      "github_activity_score": 45.9
+    }
+  },
+  {
+    "candidate_id": "CAND_007",
+    "name": "Emma Sharma",
+    "current_title": "Database Administrator",
+    "years_of_experience": 6.2,
+    "skills": [
+      "React",
+      "CSS",
+      "Marketing",
+      "Git",
+      "HTML",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Database Administrator",
+        "duration_years": 6.2
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.78,
+      "interview_completion_rate": 0.72,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-08-05",
+      "notice_period_days": 30,
+      "profile_completeness": 0.56,
+      "github_activity_score": 49.1
+    }
+  },
+  {
+    "candidate_id": "CAND_008",
+    "name": "Amit Martin",
+    "current_title": "Senior ML Engineer",
+    "years_of_experience": 6.5,
+    "skills": [
+      "LLMs",
+      "Scikit-Learn",
+      "PyTorch",
+      "Computer Vision",
+      "GPT",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 3.9
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 2.6
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.96,
+      "interview_completion_rate": 1.0,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-06-21",
+      "notice_period_days": 30,
+      "profile_completeness": 0.74,
+      "github_activity_score": 20.1
+    }
+  },
+  {
+    "candidate_id": "CAND_009",
+    "name": "Raj Moore",
+    "current_title": "Senior ML Engineer",
+    "years_of_experience": 6.2,
+    "skills": [
+      "Scikit-Learn",
+      "BERT",
+      "Data Science",
+      "Transformers",
+      "Computer Vision",
+      "PyTorch",
+      "GPT",
+      "Python",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 3.7
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 2.5
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.8,
+      "interview_completion_rate": 0.91,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-06-29",
+      "notice_period_days": 30,
+      "profile_completeness": 0.86,
+      "github_activity_score": 28.1
+    }
+  },
+  {
+    "candidate_id": "CAND_010",
+    "name": "Ava Singh",
+    "current_title": "Lead Data Scientist",
+    "years_of_experience": 10.4,
+    "skills": [
+      "Scikit-Learn",
+      "LLMs",
+      "Docker",
+      "Computer Vision",
+      "PyTorch",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "GPT",
+      "SQL",
+      "Python",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Lead Data Scientist",
+        "duration_years": 4.2
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 4.2
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.1
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.46,
+      "interview_completion_rate": 0.94,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-05-24",
+      "notice_period_days": 60,
+      "profile_completeness": 0.62,
+      "github_activity_score": 70.2
+    }
+  },
+  {
+    "candidate_id": "CAND_011",
+    "name": "Sofia Anderson",
+    "current_title": "Accountant",
+    "years_of_experience": 2.7,
+    "skills": [
+      "Marketing",
+      "Machine Learning",
+      "Transformers",
+      "Computer Vision",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "TensorFlow",
+      "Natural Language Processing",
+      "Excel"
+    ],
+    "career_history": [
+      {
+        "title": "Accountant",
+        "duration_years": 2.7
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.34,
+      "interview_completion_rate": 0.79,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-29",
+      "notice_period_days": 45,
+      "profile_completeness": 0.86,
+      "github_activity_score": 82.1
+    }
+  },
+  {
+    "candidate_id": "CAND_012",
+    "name": "Mason Kim",
+    "current_title": "Receptionist",
+    "years_of_experience": 9.8,
+    "skills": [
+      "TensorFlow",
+      "Natural Language Processing",
+      "Computer Vision"
+    ],
+    "career_history": [
+      {
+        "title": "Receptionist",
+        "duration_years": 9.8
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.61,
+      "interview_completion_rate": 0.92,
+      "open_to_work_flag": true,
+      "notice_period_days": 90,
+      "profile_completeness": 1.0,
+      "github_activity_score": 85.2
+    }
+  },
+  {
+    "candidate_id": "CAND_013",
+    "name": "Lucas Kim",
+    "current_title": "Computer Vision Engineer",
+    "years_of_experience": 3.7,
+    "skills": [
+      "Scikit-Learn",
+      "LLMs",
+      "BERT",
+      "Machine Learning",
+      "Python",
+      "TensorFlow"
+    ],
+    "career_history": [
+      {
+        "title": "Computer Vision Engineer",
+        "duration_years": 3.7
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.34,
+      "interview_completion_rate": 0.63,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-02-14",
+      "notice_period_days": 120,
+      "profile_completeness": 0.89,
+      "github_activity_score": 35.7
+    }
+  },
+  {
+    "candidate_id": "CAND_014",
+    "name": "Kenji Johnson",
+    "current_title": "DevOps Engineer",
+    "years_of_experience": 7.2,
+    "skills": [
+      "React",
+      "CSS",
+      "Git",
+      "HTML",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "DevOps Engineer",
+        "duration_years": 7.2
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.34,
+      "interview_completion_rate": 0.75,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-31",
+      "notice_period_days": 60,
+      "profile_completeness": 0.54,
+      "github_activity_score": 26.7
+    }
+  },
+  {
+    "candidate_id": "CAND_015",
+    "name": "Elena Williams",
+    "current_title": "Data Scientist",
+    "years_of_experience": 2.5,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "Computer Vision",
+      "PyTorch",
+      "Python",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Data Scientist",
+        "duration_years": 2.5
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.71,
+      "interview_completion_rate": 0.71,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-03-17",
+      "notice_period_days": 90,
+      "profile_completeness": 0.86,
+      "github_activity_score": 31.5
+    }
+  },
+  {
+    "candidate_id": "CAND_016",
+    "name": "Kenji Miller",
+    "current_title": "Principal AI Researcher",
+    "years_of_experience": 12.3,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "Data Science",
+      "Git",
+      "Machine Learning",
+      "PyTorch",
+      "TensorFlow",
+      "Reinforcement Learning",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Principal AI Researcher",
+        "duration_years": 4.9
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 4.9
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.5
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.39,
+      "interview_completion_rate": 0.61,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-02-24",
+      "notice_period_days": 30,
+      "profile_completeness": 0.64,
+      "github_activity_score": 49.4
+    }
+  },
+  {
+    "candidate_id": "CAND_017",
+    "name": "Yuki Jones",
+    "current_title": "AI Engineer",
+    "years_of_experience": 6.0,
+    "skills": [
+      "BERT",
+      "Python",
+      "GPT",
+      "Machine Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "AI Engineer",
+        "duration_years": 3.6
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.4
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.87,
+      "interview_completion_rate": 0.83,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-01",
+      "notice_period_days": 30,
+      "profile_completeness": 0.93,
+      "github_activity_score": 55.5
+    }
+  },
+  {
+    "candidate_id": "CAND_018",
+    "name": "Yuki Singh",
+    "current_title": "ML Engineer",
+    "years_of_experience": 1.6,
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "ML Engineer",
+        "duration_years": 1.6
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.31,
+      "interview_completion_rate": 0.45,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-09-23",
+      "notice_period_days": 0,
+      "profile_completeness": 0.92,
+      "github_activity_score": 62.4
+    }
+  },
+  {
+    "candidate_id": "CAND_019",
+    "name": "Emily Miller",
+    "current_title": "Backend Engineer",
+    "years_of_experience": 9.1,
+    "skills": [
+      "React",
+      "CSS",
+      "Git",
+      "HTML",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Backend Engineer",
+        "duration_years": 9.1
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.77,
+      "interview_completion_rate": 0.61,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-08-16",
+      "notice_period_days": 90,
+      "profile_completeness": 0.58,
+      "github_activity_score": 93.7
+    }
+  },
+  {
+    "candidate_id": "CAND_020",
+    "name": "Sofia Wang",
+    "current_title": "DevOps Engineer",
+    "years_of_experience": 6.3,
+    "skills": [
+      "Scikit-Learn",
+      "React",
+      "Marketing",
+      "Git",
+      "HTML",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "DevOps Engineer",
+        "duration_years": 6.3
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.81,
+      "interview_completion_rate": 0.55,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-07-05",
+      "notice_period_days": 0,
+      "profile_completeness": 0.69,
+      "github_activity_score": 13.5
+    }
+  },
+  {
+    "candidate_id": "CAND_021",
+    "name": "Michael Hernandez",
+    "current_title": "AI Engineer",
+    "years_of_experience": 7.1,
+    "skills": [
+      "LLMs",
+      "Data Science",
+      "Python",
+      "TensorFlow",
+      "Neural Networks",
+      "Machine Learning"
+    ],
+    "career_history": [
+      {
+        "title": "AI Engineer",
+        "duration_years": 4.3
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.8
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.81,
+      "interview_completion_rate": 0.92,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-02",
+      "notice_period_days": 45,
+      "profile_completeness": 0.7,
+      "github_activity_score": 98.3
+    }
+  },
+  {
+    "candidate_id": "CAND_022",
+    "name": "Aris Taylor",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 7.2,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "PyTorch",
+      "Neural Networks",
+      "GPT",
+      "Python",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 4.3
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 2.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.94,
+      "interview_completion_rate": 0.86,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-09",
+      "notice_period_days": 60,
+      "profile_completeness": 0.5,
+      "github_activity_score": 93.3
+    }
+  },
+  {
+    "candidate_id": "CAND_023",
+    "name": "Michael Singh",
+    "current_title": "Principal AI Researcher",
+    "years_of_experience": 6.2,
+    "skills": [
+      "LLMs",
+      "Scikit-Learn",
+      "Data Science",
+      "Python",
+      "Machine Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Principal AI Researcher",
+        "duration_years": 3.7
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.5
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.92,
+      "interview_completion_rate": 0.86,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-17",
+      "notice_period_days": 60,
+      "profile_completeness": 0.95,
+      "github_activity_score": 65.4
+    }
+  },
+  {
+    "candidate_id": "CAND_024",
+    "name": "Lucas Taylor",
+    "current_title": "AI Engineer",
+    "years_of_experience": 3.4,
+    "skills": [
+      "LLMs",
+      "Scikit-Learn",
+      "BERT",
+      "Python",
+      "Machine Learning"
+    ],
+    "career_history": [
+      {
+        "title": "AI Engineer",
+        "duration_years": 3.4
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.93,
+      "interview_completion_rate": 0.88,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-07-27",
+      "notice_period_days": 0,
+      "profile_completeness": 0.64,
+      "github_activity_score": 69.7
+    }
+  },
+  {
+    "candidate_id": "CAND_025",
+    "name": "James Smith",
+    "current_title": "Lead Data Scientist",
+    "years_of_experience": 7.9,
+    "skills": [
+      "Scikit-Learn",
+      "BERT",
+      "Data Science",
+      "PyTorch",
+      "TensorFlow",
+      "Neural Networks",
+      "Python",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Lead Data Scientist",
+        "duration_years": 4.7
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 3.2
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.84,
+      "interview_completion_rate": 0.99,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-06-26",
+      "notice_period_days": 60,
+      "profile_completeness": 0.94,
+      "github_activity_score": 61.8
+    }
+  },
+  {
+    "candidate_id": "CAND_026",
+    "name": "Yuki Davis",
+    "current_title": "System Administrator",
+    "years_of_experience": 9.6,
+    "skills": [
+      "Transformers",
+      "Natural Language Processing",
+      "Computer Vision",
+      "PyTorch",
+      "Deep Learning",
+      "Scikit-Learn"
+    ],
+    "career_history": [
+      {
+        "title": "System Administrator",
+        "duration_years": 9.6
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.38,
+      "interview_completion_rate": 0.48,
+      "open_to_work_flag": false,
+      "notice_period_days": 60,
+      "profile_completeness": 0.99,
+      "github_activity_score": 63.6
+    }
+  },
+  {
+    "candidate_id": "CAND_027",
+    "name": "Harper Tanaka",
+    "current_title": "Senior ML Engineer",
+    "years_of_experience": 6.1,
+    "skills": [
+      "Scikit-Learn",
+      "Transformers",
+      "PyTorch",
+      "Python",
+      "GPT",
+      "TensorFlow",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 3.7
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 2.4
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.94,
+      "interview_completion_rate": 0.94,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-03",
+      "notice_period_days": 60,
+      "profile_completeness": 0.64,
+      "github_activity_score": 17.0
+    }
+  },
+  {
+    "candidate_id": "CAND_028",
+    "name": "Ethan Moore",
+    "current_title": "Software Engineer (ML)",
+    "years_of_experience": 3.2,
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Python",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Software Engineer (ML)",
+        "duration_years": 3.2
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.34,
+      "interview_completion_rate": 0.9,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-09-03",
+      "notice_period_days": 90,
+      "profile_completeness": 0.51,
+      "github_activity_score": 89.3
+    }
+  },
+  {
+    "candidate_id": "CAND_029",
+    "name": "Sofia Moore",
+    "current_title": "Frontend Engineer",
+    "years_of_experience": 5.7,
+    "skills": [
+      "React",
+      "CSS",
+      "Git",
+      "Node.js",
+      "HTML",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Frontend Engineer",
+        "duration_years": 5.7
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.68,
+      "interview_completion_rate": 0.76,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-10-23",
+      "notice_period_days": 15,
+      "profile_completeness": 0.64,
+      "github_activity_score": 53.7
+    }
+  },
+  {
+    "candidate_id": "CAND_030",
+    "name": "Chen Jackson",
+    "current_title": "System Administrator",
+    "years_of_experience": 6.2,
+    "skills": [
+      "React",
+      "CSS",
+      "Git",
+      "Node.js",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "System Administrator",
+        "duration_years": 6.2
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.36,
+      "interview_completion_rate": 0.66,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-03-28",
+      "notice_period_days": 0,
+      "profile_completeness": 0.63,
+      "github_activity_score": 39.5
+    }
+  },
+  {
+    "candidate_id": "CAND_031",
+    "name": "Raj Smith",
+    "current_title": "DevOps Engineer",
+    "years_of_experience": 8.3,
+    "skills": [
+      "CSS",
+      "Git",
+      "Computer Vision",
+      "HTML",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "DevOps Engineer",
+        "duration_years": 8.3
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.34,
+      "interview_completion_rate": 0.97,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-08-01",
+      "notice_period_days": 0,
+      "profile_completeness": 0.89,
+      "github_activity_score": 68.7
+    }
+  },
+  {
+    "candidate_id": "CAND_032",
+    "name": "Elijah Jackson",
+    "current_title": "Social Media Strategist",
+    "years_of_experience": 2.9,
+    "skills": [
+      "Machine Learning",
+      "PyTorch",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Social Media Strategist",
+        "duration_years": 2.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.63,
+      "interview_completion_rate": 0.55,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-04-05",
+      "profile_completeness": 0.8,
+      "github_activity_score": 77.3
+    }
+  },
+  {
+    "candidate_id": "CAND_033",
+    "name": "Mei Sharma",
+    "current_title": "Receptionist",
+    "years_of_experience": 2.8,
+    "skills": [
+      "LLMs",
+      "PyTorch",
+      "Python",
+      "TensorFlow"
+    ],
+    "career_history": [
+      {
+        "title": "Receptionist",
+        "duration_years": 2.8
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.56,
+      "interview_completion_rate": 0.96,
+      "open_to_work_flag": true,
+      "notice_period_days": 60,
+      "profile_completeness": 0.85,
+      "github_activity_score": 66.5
+    }
+  },
+  {
+    "candidate_id": "CAND_034",
+    "name": "Jacob Williams",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 14.0,
+    "skills": [
+      "LLMs",
+      "Transformers",
+      "Computer Vision",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "SQL",
+      "Python",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 5.6
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 5.6
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.8
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.54,
+      "interview_completion_rate": 0.91,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-05-06",
+      "notice_period_days": 45,
+      "profile_completeness": 0.98,
+      "github_activity_score": 67.2
+    }
+  },
+  {
+    "candidate_id": "CAND_035",
+    "name": "Henry Wilson",
+    "current_title": "Social Media Strategist",
+    "years_of_experience": 4.8,
+    "skills": [
+      "Scikit-Learn",
+      "LLMs",
+      "BERT",
+      "Data Science",
+      "Marketing",
+      "Computer Vision",
+      "TensorFlow",
+      "Neural Networks",
+      "GPT",
+      "Python",
+      "Deep Learning",
+      "Natural Language Processing",
+      "Excel"
+    ],
+    "career_history": [
+      {
+        "title": "Social Media Strategist",
+        "duration_years": 4.8
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.71,
+      "interview_completion_rate": 0.59,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-16",
+      "notice_period_days": 30,
+      "profile_completeness": 0.94,
+      "github_activity_score": 31.9
+    }
+  },
+  {
+    "candidate_id": "CAND_036",
+    "name": "Logan Park",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 13.6,
+    "skills": [
+      "Scikit-Learn",
+      "Data Science",
+      "Machine Learning",
+      "PyTorch",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "SQL",
+      "Python",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 5.4
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 5.4
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.7
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.92,
+      "interview_completion_rate": 0.73,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-17",
+      "notice_period_days": 15,
+      "profile_completeness": 0.86,
+      "github_activity_score": 54.0
+    }
+  },
+  {
+    "candidate_id": "CAND_037",
+    "name": "Chen Lopez",
+    "current_title": "ML Engineer",
+    "years_of_experience": 1.9,
+    "skills": [
+      "Scikit-Learn",
+      "BERT",
+      "Transformers",
+      "PyTorch",
+      "Python",
+      "TensorFlow"
+    ],
+    "career_history": [
+      {
+        "title": "ML Engineer",
+        "duration_years": 1.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.67,
+      "interview_completion_rate": 0.66,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-12-31",
+      "notice_period_days": 90,
+      "profile_completeness": 0.73,
+      "github_activity_score": 37.6
+    }
+  },
+  {
+    "candidate_id": "CAND_038",
+    "name": "Raj Rodriguez",
+    "current_title": "Software Engineer",
+    "years_of_experience": 4.3,
+    "skills": [
+      "Marketing",
+      "CSS",
+      "Git",
+      "Node.js",
+      "HTML",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Software Engineer",
+        "duration_years": 4.3
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.98,
+      "interview_completion_rate": 0.71,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-05-09",
+      "notice_period_days": 120,
+      "profile_completeness": 0.6,
+      "github_activity_score": 30.5
+    }
+  },
+  {
+    "candidate_id": "CAND_039",
+    "name": "Yuki Martinez",
+    "current_title": "System Administrator",
+    "years_of_experience": 6.4,
+    "skills": [
+      "React",
+      "Git",
+      "HTML",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "System Administrator",
+        "duration_years": 6.4
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.39,
+      "interview_completion_rate": 0.92,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-05-08",
+      "notice_period_days": 120,
+      "profile_completeness": 0.51,
+      "github_activity_score": 35.6
+    }
+  },
+  {
+    "candidate_id": "CAND_040",
+    "name": "Raj Brown",
+    "current_title": "Accountant",
+    "years_of_experience": 2.5,
+    "skills": [
+      "LLMs",
+      "Marketing",
+      "BERT",
+      "Transformers",
+      "Reinforcement Learning",
+      "GPT",
+      "Natural Language Processing",
+      "Excel"
+    ],
+    "career_history": [
+      {
+        "title": "Accountant",
+        "duration_years": 2.5
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.58,
+      "interview_completion_rate": 0.44,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-04-13",
+      "notice_period_days": 15,
+      "profile_completeness": 0.91,
+      "github_activity_score": 95.4
+    }
+  },
+  {
+    "candidate_id": "CAND_041",
+    "name": "Charlotte Tanaka",
+    "current_title": "Lead Data Scientist",
+    "years_of_experience": 13.5,
+    "skills": [
+      "Scikit-Learn",
+      "Data Science",
+      "Git",
+      "Docker",
+      "Transformers",
+      "PyTorch",
+      "Python",
+      "Reinforcement Learning",
+      "SQL",
+      "TensorFlow",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Lead Data Scientist",
+        "duration_years": 5.4
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 5.4
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.7
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.62,
+      "interview_completion_rate": 0.67,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-01-24",
+      "notice_period_days": 60,
+      "profile_completeness": 0.81,
+      "github_activity_score": 64.9
+    }
+  },
+  {
+    "candidate_id": "CAND_042",
+    "name": "Avery Singh",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 14.6,
+    "skills": [
+      "Scikit-Learn",
+      "BERT",
+      "Machine Learning",
+      "Transformers",
+      "PyTorch",
+      "Python",
+      "Neural Networks",
+      "GPT",
+      "SQL",
+      "TensorFlow",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 5.8
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 5.8
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.5,
+      "interview_completion_rate": 0.54,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-07-05",
+      "notice_period_days": 120,
+      "profile_completeness": 0.73,
+      "github_activity_score": 71.9
+    }
+  },
+  {
+    "candidate_id": "CAND_043",
+    "name": "Noah Garcia",
+    "current_title": "Database Administrator",
+    "years_of_experience": 5.8,
+    "skills": [
+      "Marketing",
+      "CSS",
+      "Git",
+      "Node.js",
+      "HTML",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Database Administrator",
+        "duration_years": 5.8
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.72,
+      "interview_completion_rate": 0.89,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-11-17",
+      "notice_period_days": 0,
+      "profile_completeness": 0.73,
+      "github_activity_score": 37.4
+    }
+  },
+  {
+    "candidate_id": "CAND_044",
+    "name": "Daniel Sato",
+    "current_title": "Software Engineer (ML)",
+    "years_of_experience": 3.9,
+    "skills": [
+      "Scikit-Learn",
+      "BERT",
+      "Computer Vision",
+      "Python",
+      "TensorFlow",
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Software Engineer (ML)",
+        "duration_years": 3.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.48,
+      "interview_completion_rate": 0.45,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-07-20",
+      "notice_period_days": 120,
+      "profile_completeness": 0.63,
+      "github_activity_score": 13.6
+    }
+  },
+  {
+    "candidate_id": "CAND_045",
+    "name": "Oliver Thomas",
+    "current_title": "Computer Vision Engineer",
+    "years_of_experience": 4.7,
+    "skills": [
+      "PyTorch",
+      "Deep Learning",
+      "Computer Vision",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Computer Vision Engineer",
+        "duration_years": 4.7
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.53,
+      "interview_completion_rate": 0.8,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-01-12",
+      "notice_period_days": 45,
+      "profile_completeness": 0.85,
+      "github_activity_score": 35.9
+    }
+  },
+  {
+    "candidate_id": "CAND_046",
+    "name": "Harper Hernandez",
+    "current_title": "Senior ML Engineer",
+    "years_of_experience": 5.8,
+    "skills": [
+      "Scikit-Learn",
+      "BERT",
+      "Machine Learning",
+      "Computer Vision",
+      "TensorFlow",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "GPT",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 3.5
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 2.3
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.89,
+      "interview_completion_rate": 0.94,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-20",
+      "notice_period_days": 15,
+      "profile_completeness": 0.77,
+      "github_activity_score": 47.2
+    }
+  },
+  {
+    "candidate_id": "CAND_047",
+    "name": "Aris Wang",
+    "current_title": "AI Engineer",
+    "years_of_experience": 6.8,
+    "skills": [
+      "Scikit-Learn",
+      "BERT",
+      "Transformers",
+      "Computer Vision",
+      "Python",
+      "TensorFlow",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "GPT",
+      "Machine Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "AI Engineer",
+        "duration_years": 4.1
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.7
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 1.0,
+      "interview_completion_rate": 0.85,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-06-05",
+      "notice_period_days": 30,
+      "profile_completeness": 1.0,
+      "github_activity_score": 92.2
+    }
+  },
+  {
+    "candidate_id": "CAND_048",
+    "name": "Mia Papadopoulos",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 14.6,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "Git",
+      "Data Science",
+      "Computer Vision",
+      "Neural Networks",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 5.8
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 5.8
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.82,
+      "interview_completion_rate": 0.48,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-02-08",
+      "notice_period_days": 120,
+      "profile_completeness": 0.9,
+      "github_activity_score": 47.3
+    }
+  },
+  {
+    "candidate_id": "CAND_049",
+    "name": "James Anderson",
+    "current_title": "Principal AI Researcher",
+    "years_of_experience": 10.5,
+    "skills": [
+      "BERT",
+      "Data Science",
+      "PyTorch",
+      "Computer Vision",
+      "Neural Networks",
+      "GPT",
+      "Python",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Principal AI Researcher",
+        "duration_years": 4.2
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 4.2
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.1
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.54,
+      "interview_completion_rate": 0.73,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-11-08",
+      "notice_period_days": 30,
+      "profile_completeness": 0.93,
+      "github_activity_score": 98.3
+    }
+  },
+  {
+    "candidate_id": "CAND_050",
+    "name": "Elizabeth Sharma",
+    "current_title": "QA Engineer",
+    "years_of_experience": 3.7,
+    "skills": [
+      "Marketing",
+      "Git",
+      "TensorFlow",
+      "Node.js",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "QA Engineer",
+        "duration_years": 3.7
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.76,
+      "interview_completion_rate": 0.49,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-04-26",
+      "notice_period_days": 60,
+      "profile_completeness": 0.98,
+      "github_activity_score": 39.9
+    }
+  },
+  {
+    "candidate_id": "CAND_051",
+    "name": "Sofia Kim",
+    "current_title": "Frontend Engineer",
+    "years_of_experience": 9.0,
+    "skills": [
+      "React",
+      "Git",
+      "Machine Learning",
+      "Node.js",
+      "HTML",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Frontend Engineer",
+        "duration_years": 9.0
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.41,
+      "interview_completion_rate": 0.68,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-01-07",
+      "notice_period_days": 60,
+      "profile_completeness": 0.85,
+      "github_activity_score": 68.5
+    }
+  },
+  {
+    "candidate_id": "CAND_052",
+    "name": "Charlotte Sato",
+    "current_title": "AI Engineer",
+    "years_of_experience": 5.2,
+    "skills": [
+      "Scikit-Learn",
+      "Data Science",
+      "Transformers",
+      "Python",
+      "Reinforcement Learning",
+      "TensorFlow",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "AI Engineer",
+        "duration_years": 3.1
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.1
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.91,
+      "interview_completion_rate": 0.96,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-24",
+      "notice_period_days": 30,
+      "profile_completeness": 0.85,
+      "github_activity_score": 91.3
+    }
+  },
+  {
+    "candidate_id": "CAND_053",
+    "name": "Elena Kim",
+    "current_title": "Software Engineer (ML)",
+    "years_of_experience": 3.6,
+    "skills": [
+      "BERT",
+      "Transformers",
+      "PyTorch",
+      "Computer Vision",
+      "Python",
+      "TensorFlow"
+    ],
+    "career_history": [
+      {
+        "title": "Software Engineer (ML)",
+        "duration_years": 3.6
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.78,
+      "interview_completion_rate": 0.7,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-03-03",
+      "notice_period_days": 45,
+      "profile_completeness": 0.82,
+      "github_activity_score": 51.4
+    }
+  },
+  {
+    "candidate_id": "CAND_054",
+    "name": "Emily Jackson",
+    "current_title": "Lead Data Scientist",
+    "years_of_experience": 5.4,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "Python",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "GPT",
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Lead Data Scientist",
+        "duration_years": 3.2
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.2
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.91,
+      "interview_completion_rate": 0.94,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-05-22",
+      "notice_period_days": 15,
+      "profile_completeness": 1.0,
+      "github_activity_score": 86.8
+    }
+  },
+  {
+    "candidate_id": "CAND_055",
+    "name": "Priya Li",
+    "current_title": "Receptionist",
+    "years_of_experience": 8.0,
+    "skills": [
+      "PyTorch",
+      "Python",
+      "Machine Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Receptionist",
+        "duration_years": 8.0
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.5,
+      "interview_completion_rate": 0.88,
+      "open_to_work_flag": false,
+      "notice_period_days": 90,
+      "profile_completeness": 0.6,
+      "github_activity_score": 32.6
+    }
+  },
+  {
+    "candidate_id": "CAND_056",
+    "name": "Olivia Jackson",
+    "current_title": "Data Scientist",
+    "years_of_experience": 4.4,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "Transformers",
+      "Computer Vision",
+      "Python",
+      "TensorFlow",
+      "Machine Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Data Scientist",
+        "duration_years": 4.4
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.39,
+      "interview_completion_rate": 0.95,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-11-29",
+      "notice_period_days": 15,
+      "profile_completeness": 0.6,
+      "github_activity_score": 80.8
+    }
+  },
+  {
+    "candidate_id": "CAND_057",
+    "name": "Ethan Wang",
+    "current_title": "Principal AI Researcher",
+    "years_of_experience": 8.4,
+    "skills": [
+      "Data Science",
+      "Machine Learning",
+      "Transformers",
+      "PyTorch",
+      "Reinforcement Learning",
+      "Python",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Principal AI Researcher",
+        "duration_years": 5.0
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 3.4
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.89,
+      "interview_completion_rate": 0.93,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-05-23",
+      "notice_period_days": 45,
+      "profile_completeness": 0.84,
+      "github_activity_score": 45.8
+    }
+  },
+  {
+    "candidate_id": "CAND_058",
+    "name": "Elizabeth Li",
+    "current_title": "Lead Data Scientist",
+    "years_of_experience": 14.5,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "Data Science",
+      "Git",
+      "Docker",
+      "Machine Learning",
+      "PyTorch",
+      "Python",
+      "Computer Vision",
+      "TensorFlow",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Lead Data Scientist",
+        "duration_years": 5.8
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 5.8
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.56,
+      "interview_completion_rate": 0.8,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-06-17",
+      "notice_period_days": 60,
+      "profile_completeness": 0.94,
+      "github_activity_score": 60.5
+    }
+  },
+  {
+    "candidate_id": "CAND_059",
+    "name": "Elijah Brown",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 7.3,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "Computer Vision",
+      "PyTorch",
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 4.4
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 2.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.84,
+      "interview_completion_rate": 0.89,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-23",
+      "notice_period_days": 45,
+      "profile_completeness": 0.85,
+      "github_activity_score": 58.6
+    }
+  },
+  {
+    "candidate_id": "CAND_060",
+    "name": "Jacob Moore",
+    "current_title": "Principal AI Researcher",
+    "years_of_experience": 2.7,
+    "skills": [
+      "Python",
+      "LLMs",
+      "Deep Learning",
+      "PyTorch",
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Principal AI Researcher",
+        "duration_years": 2.7
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.75,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-03-24",
+      "notice_period_days": 0,
+      "profile_completeness": 0.97,
+      "github_activity_score": 84.2
+    }
+  },
+  {
+    "candidate_id": "CAND_061",
+    "name": "Ava Li",
+    "current_title": "Backend Engineer",
+    "years_of_experience": 3.0,
+    "skills": [
+      "Marketing",
+      "React",
+      "Git",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Backend Engineer",
+        "duration_years": 3.0
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.45,
+      "interview_completion_rate": 0.53,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-01-12",
+      "notice_period_days": 120,
+      "profile_completeness": 0.57,
+      "github_activity_score": 91.0
+    }
+  },
+  {
+    "candidate_id": "CAND_062",
+    "name": "Elijah Sharma",
+    "current_title": "Office Assistant",
+    "years_of_experience": 2.8,
+    "skills": [
+      "Scikit-Learn",
+      "Marketing",
+      "Data Science",
+      "Transformers",
+      "PyTorch",
+      "Computer Vision",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "GPT",
+      "Machine Learning",
+      "Deep Learning",
+      "Excel"
+    ],
+    "career_history": [
+      {
+        "title": "Office Assistant",
+        "duration_years": 2.8
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.39,
+      "interview_completion_rate": 0.61,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-09-01",
+      "notice_period_days": 30,
+      "profile_completeness": 0.51,
+      "github_activity_score": 33.9
+    }
+  },
+  {
+    "candidate_id": "CAND_063",
+    "name": "Charlotte Martin",
+    "current_title": "Lead Data Scientist",
+    "years_of_experience": 6.9,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "Computer Vision",
+      "PyTorch",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "GPT",
+      "Python",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Lead Data Scientist",
+        "duration_years": 4.1
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.8
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.92,
+      "interview_completion_rate": 0.81,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-05",
+      "notice_period_days": 45,
+      "profile_completeness": 0.98,
+      "github_activity_score": 15.5
+    }
+  },
+  {
+    "candidate_id": "CAND_064",
+    "name": "Aris Taylor",
+    "current_title": "Lead Data Scientist",
+    "years_of_experience": 8.5,
+    "skills": [
+      "Scikit-Learn",
+      "LLMs",
+      "Data Science",
+      "Computer Vision",
+      "PyTorch",
+      "Reinforcement Learning",
+      "Python",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Lead Data Scientist",
+        "duration_years": 5.1
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 3.4
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.86,
+      "interview_completion_rate": 0.86,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-20",
+      "notice_period_days": 45,
+      "profile_completeness": 0.94,
+      "github_activity_score": 59.6
+    }
+  },
+  {
+    "candidate_id": "CAND_065",
+    "name": "Raj Williams",
+    "current_title": "AI Engineer",
+    "years_of_experience": 7.2,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "Data Science",
+      "Machine Learning",
+      "Neural Networks",
+      "Python",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "AI Engineer",
+        "duration_years": 4.3
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.82,
+      "interview_completion_rate": 0.9,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-15",
+      "notice_period_days": 60,
+      "profile_completeness": 0.53,
+      "github_activity_score": 96.1
+    }
+  },
+  {
+    "candidate_id": "CAND_066",
+    "name": "Sophia Lopez",
+    "current_title": "Product Marketing Associate",
+    "years_of_experience": 5.7,
+    "skills": [
+      "LLMs",
+      "Marketing",
+      "BERT",
+      "Data Science",
+      "Machine Learning",
+      "Transformers",
+      "TensorFlow",
+      "Neural Networks",
+      "GPT",
+      "Python",
+      "Deep Learning",
+      "Natural Language Processing",
+      "Excel"
+    ],
+    "career_history": [
+      {
+        "title": "Product Marketing Associate",
+        "duration_years": 5.7
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.56,
+      "interview_completion_rate": 0.86,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-11-22",
+      "notice_period_days": 120,
+      "profile_completeness": 0.78,
+      "github_activity_score": 79.1
+    }
+  },
+  {
+    "candidate_id": "CAND_067",
+    "name": "Emily Smith",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 8.0,
+    "skills": [
+      "BERT",
+      "Machine Learning",
+      "Computer Vision",
+      "PyTorch",
+      "Python",
+      "Reinforcement Learning",
+      "TensorFlow",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 4.8
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 3.2
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.98,
+      "interview_completion_rate": 0.83,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-05-17",
+      "notice_period_days": 15,
+      "profile_completeness": 0.82,
+      "github_activity_score": 12.8
+    }
+  },
+  {
+    "candidate_id": "CAND_068",
+    "name": "Oliver Rodriguez",
+    "current_title": "Data Scientist",
+    "years_of_experience": 2.7,
+    "skills": [
+      "Scikit-Learn",
+      "LLMs",
+      "Transformers",
+      "Computer Vision",
+      "Python",
+      "GPT",
+      "Machine Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Data Scientist",
+        "duration_years": 2.7
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.6,
+      "interview_completion_rate": 0.76,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-02-10",
+      "notice_period_days": 15,
+      "profile_completeness": 0.88,
+      "github_activity_score": 20.2
+    }
+  },
+  {
+    "candidate_id": "CAND_069",
+    "name": "Noah Smith",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 6.7,
+    "skills": [
+      "Scikit-Learn",
+      "Data Science",
+      "Transformers",
+      "PyTorch",
+      "Neural Networks",
+      "GPT",
+      "Python",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 4.0
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 2.7
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.97,
+      "interview_completion_rate": 0.81,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-25",
+      "notice_period_days": 60,
+      "profile_completeness": 0.56,
+      "github_activity_score": 54.8
+    }
+  },
+  {
+    "candidate_id": "CAND_070",
+    "name": "Abigail Jackson",
+    "current_title": "Computer Vision Engineer",
+    "years_of_experience": 4.1,
+    "skills": [
+      "LLMs",
+      "PyTorch",
+      "Computer Vision",
+      "GPT",
+      "Python",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Computer Vision Engineer",
+        "duration_years": 4.1
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.58,
+      "interview_completion_rate": 0.78,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-05-02",
+      "notice_period_days": 45,
+      "profile_completeness": 0.51,
+      "github_activity_score": 39.2
+    }
+  },
+  {
+    "candidate_id": "CAND_071",
+    "name": "Daniel Jackson",
+    "current_title": "Computer Vision Engineer",
+    "years_of_experience": 3.5,
+    "skills": [
+      "Scikit-Learn",
+      "BERT",
+      "Python",
+      "PyTorch",
+      "GPT",
+      "TensorFlow",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Computer Vision Engineer",
+        "duration_years": 3.5
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.36,
+      "interview_completion_rate": 0.92,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-03-08",
+      "notice_period_days": 30,
+      "profile_completeness": 0.89,
+      "github_activity_score": 16.9
+    }
+  },
+  {
+    "candidate_id": "CAND_072",
+    "name": "Harper Miller",
+    "current_title": "Principal AI Researcher",
+    "years_of_experience": 7.3,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "Data Science",
+      "Python",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "GPT",
+      "TensorFlow",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Principal AI Researcher",
+        "duration_years": 4.4
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.89,
+      "interview_completion_rate": 0.89,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-06-12",
+      "notice_period_days": 45,
+      "profile_completeness": 0.81,
+      "github_activity_score": 51.8
+    }
+  },
+  {
+    "candidate_id": "CAND_073",
+    "name": "Chen Johnson",
+    "current_title": "AI Engineer",
+    "years_of_experience": 4.4,
+    "skills": [
+      "LLMs",
+      "Scikit-Learn",
+      "Machine Learning",
+      "Transformers",
+      "Computer Vision",
+      "Python",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "AI Engineer",
+        "duration_years": 4.4
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.35,
+      "interview_completion_rate": 0.68,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-31",
+      "notice_period_days": 30,
+      "profile_completeness": 0.92,
+      "github_activity_score": 16.9
+    }
+  },
+  {
+    "candidate_id": "CAND_074",
+    "name": "Mia Hernandez",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 13.3,
+    "skills": [
+      "LLMs",
+      "Data Science",
+      "Docker",
+      "Transformers",
+      "Computer Vision",
+      "PyTorch",
+      "Python",
+      "Neural Networks",
+      "GPT",
+      "SQL",
+      "TensorFlow",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 5.3
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 5.3
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.7
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.65,
+      "interview_completion_rate": 0.97,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-05-08",
+      "notice_period_days": 120,
+      "profile_completeness": 0.95,
+      "github_activity_score": 40.9
+    }
+  },
+  {
+    "candidate_id": "CAND_075",
+    "name": "Jacob Papadopoulos",
+    "current_title": "Lead Data Scientist",
+    "years_of_experience": 7.2,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "PyTorch",
+      "Python",
+      "TensorFlow",
+      "GPT",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Lead Data Scientist",
+        "duration_years": 4.3
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.92,
+      "interview_completion_rate": 0.83,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-19",
+      "notice_period_days": 45,
+      "profile_completeness": 0.67,
+      "github_activity_score": 39.7
+    }
+  },
+  {
+    "candidate_id": "CAND_076",
+    "name": "Michael Jones",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 13.2,
+    "skills": [
+      "Scikit-Learn",
+      "Git",
+      "Docker",
+      "Machine Learning",
+      "Transformers",
+      "Python",
+      "Neural Networks",
+      "GPT",
+      "SQL",
+      "TensorFlow",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 5.3
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 5.3
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.6
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.96,
+      "interview_completion_rate": 0.59,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-08-04",
+      "notice_period_days": 120,
+      "profile_completeness": 0.66,
+      "github_activity_score": 21.5
+    }
+  },
+  {
+    "candidate_id": "CAND_077",
+    "name": "Priya Miller",
+    "current_title": "Senior ML Engineer",
+    "years_of_experience": 7.1,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "Data Science",
+      "Computer Vision",
+      "Python",
+      "Neural Networks",
+      "GPT",
+      "TensorFlow",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 4.3
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 2.8
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.88,
+      "interview_completion_rate": 0.94,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-21",
+      "notice_period_days": 60,
+      "profile_completeness": 0.77,
+      "github_activity_score": 76.5
+    }
+  },
+  {
+    "candidate_id": "CAND_078",
+    "name": "Evelyn Tanaka",
+    "current_title": "QA Engineer",
+    "years_of_experience": 7.0,
+    "skills": [
+      "React",
+      "Marketing",
+      "Git",
+      "Node.js",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "QA Engineer",
+        "duration_years": 7.0
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.61,
+      "interview_completion_rate": 0.72,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-11-01",
+      "notice_period_days": 120,
+      "profile_completeness": 0.6,
+      "github_activity_score": 71.0
+    }
+  },
+  {
+    "candidate_id": "CAND_079",
+    "name": "Amelia Li",
+    "current_title": "Principal AI Researcher",
+    "years_of_experience": 5.4,
+    "skills": [
+      "Data Science",
+      "PyTorch",
+      "Python",
+      "TensorFlow",
+      "Reinforcement Learning",
+      "Machine Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Principal AI Researcher",
+        "duration_years": 3.2
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.2
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.89,
+      "interview_completion_rate": 0.9,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-15",
+      "notice_period_days": 15,
+      "profile_completeness": 0.94,
+      "github_activity_score": 59.9
+    }
+  },
+  {
+    "candidate_id": "CAND_080",
+    "name": "Avery Park",
+    "current_title": "AI Engineer",
+    "years_of_experience": 1.1,
+    "skills": [
+      "Machine Learning",
+      "Computer Vision",
+      "Python",
+      "GPT",
+      "TensorFlow"
+    ],
+    "career_history": [
+      {
+        "title": "AI Engineer",
+        "duration_years": 1.1
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.32,
+      "interview_completion_rate": 0.43,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-03-01",
+      "notice_period_days": 45,
+      "profile_completeness": 1.0,
+      "github_activity_score": 43.7
+    }
+  },
+  {
+    "candidate_id": "CAND_081",
+    "name": "Isabella Tanaka",
+    "current_title": "Frontend Engineer",
+    "years_of_experience": 9.6,
+    "skills": [
+      "React",
+      "CSS",
+      "Git",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Frontend Engineer",
+        "duration_years": 9.6
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.61,
+      "interview_completion_rate": 0.4,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-20",
+      "notice_period_days": 30,
+      "profile_completeness": 0.61,
+      "github_activity_score": 23.5
+    }
+  },
+  {
+    "candidate_id": "CAND_082",
+    "name": "Noah Davis",
+    "current_title": "ML Engineer",
+    "years_of_experience": 3.2,
+    "skills": [
+      "Scikit-Learn",
+      "LLMs",
+      "Python",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "ML Engineer",
+        "duration_years": 3.2
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.86,
+      "interview_completion_rate": 0.67,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-10-17",
+      "notice_period_days": 60,
+      "profile_completeness": 0.77,
+      "github_activity_score": 66.9
+    }
+  },
+  {
+    "candidate_id": "CAND_083",
+    "name": "Mei Wilson",
+    "current_title": "AI Engineer",
+    "years_of_experience": 7.0,
+    "skills": [
+      "BERT",
+      "Machine Learning",
+      "Computer Vision",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "Python",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "AI Engineer",
+        "duration_years": 4.2
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.8
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.87,
+      "interview_completion_rate": 0.81,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-23",
+      "notice_period_days": 15,
+      "profile_completeness": 0.77,
+      "github_activity_score": 80.8
+    }
+  },
+  {
+    "candidate_id": "CAND_084",
+    "name": "Ethan Jones",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 5.7,
+    "skills": [
+      "Machine Learning",
+      "Computer Vision",
+      "Reinforcement Learning",
+      "GPT",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 3.4
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 2.3
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.84,
+      "interview_completion_rate": 0.96,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-10",
+      "notice_period_days": 45,
+      "profile_completeness": 0.99,
+      "github_activity_score": 53.1
+    }
+  },
+  {
+    "candidate_id": "CAND_085",
+    "name": "Amit Gonzalez",
+    "current_title": "Computer Vision Engineer",
+    "years_of_experience": 7.2,
+    "skills": [
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Computer Vision Engineer",
+        "duration_years": 7.2
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.68,
+      "interview_completion_rate": 0.55,
+      "open_to_work_flag": true,
+      "notice_period_days": 30,
+      "profile_completeness": 0.93,
+      "github_activity_score": 14.3
+    }
+  },
+  {
+    "candidate_id": "CAND_086",
+    "name": "Avery Park",
+    "current_title": "Data Scientist",
+    "years_of_experience": 7.8,
+    "skills": [
+      "LLMs",
+      "TensorFlow",
+      "Machine Learning",
+      "Transformers",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Data Scientist",
+        "duration_years": 7.8
+      }
+    ],
+    "redrob_signals": {
+      "interview_completion_rate": 0.51,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-12-23",
+      "notice_period_days": 120,
+      "profile_completeness": 0.76,
+      "github_activity_score": 82.1
+    }
+  },
+  {
+    "candidate_id": "CAND_087",
+    "name": "Abigail Sharma",
+    "current_title": "Senior ML Engineer",
+    "years_of_experience": 8.5,
+    "skills": [
+      "BERT",
+      "Data Science",
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "GPT",
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 5.1
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 3.4
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.83,
+      "interview_completion_rate": 0.92,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-21",
+      "notice_period_days": 15,
+      "profile_completeness": 0.68,
+      "github_activity_score": 13.8
+    }
+  },
+  {
+    "candidate_id": "CAND_088",
+    "name": "Ava Davis",
+    "current_title": "Full Stack Developer",
+    "years_of_experience": 5.6,
+    "skills": [
+      "React",
+      "CSS",
+      "Marketing",
+      "Git",
+      "Node.js",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Full Stack Developer",
+        "duration_years": 5.6
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.56,
+      "interview_completion_rate": 0.63,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-08-24",
+      "notice_period_days": 15,
+      "profile_completeness": 0.84,
+      "github_activity_score": 95.4
+    }
+  },
+  {
+    "candidate_id": "CAND_089",
+    "name": "Mason Brown",
+    "current_title": "Senior ML Engineer",
+    "years_of_experience": 9.0,
+    "skills": [
+      "Scikit-Learn",
+      "BERT",
+      "Data Science",
+      "Computer Vision",
+      "PyTorch",
+      "Python",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "GPT",
+      "TensorFlow",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 5.4
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 3.6
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 1.0,
+      "interview_completion_rate": 0.96,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-15",
+      "notice_period_days": 45,
+      "profile_completeness": 0.63,
+      "github_activity_score": 50.2
+    }
+  },
+  {
+    "candidate_id": "CAND_090",
+    "name": "Ava Moore",
+    "current_title": "Lead Data Scientist",
+    "years_of_experience": 13.8,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "Data Science",
+      "Transformers",
+      "Computer Vision",
+      "PyTorch",
+      "TensorFlow",
+      "Neural Networks",
+      "GPT",
+      "SQL",
+      "Python",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Lead Data Scientist",
+        "duration_years": 5.5
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 5.5
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.8
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.92,
+      "interview_completion_rate": 0.91,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-12-26",
+      "notice_period_days": 60,
+      "profile_completeness": 0.61,
+      "github_activity_score": 98.7
+    }
+  },
+  {
+    "candidate_id": "CAND_091",
+    "name": "Michael Singh",
+    "current_title": "System Administrator",
+    "years_of_experience": 7.8,
+    "skills": [
+      "Marketing",
+      "CSS",
+      "Git",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "System Administrator",
+        "duration_years": 7.8
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.67,
+      "interview_completion_rate": 0.86,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-04-26",
+      "notice_period_days": 30,
+      "profile_completeness": 0.82,
+      "github_activity_score": 50.5
+    }
+  },
+  {
+    "candidate_id": "CAND_092",
+    "name": "Isabella Wilson",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 10.4,
+    "skills": [
+      "BERT",
+      "Git",
+      "Data Science",
+      "Docker",
+      "Machine Learning",
+      "Transformers",
+      "Python",
+      "TensorFlow",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 4.2
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 4.2
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.1
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.91,
+      "interview_completion_rate": 0.9,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-01-25",
+      "notice_period_days": 15,
+      "profile_completeness": 0.58,
+      "github_activity_score": 94.1
+    }
+  },
+  {
+    "candidate_id": "CAND_093",
+    "name": "Alexander Martin",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 11.1,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "PyTorch",
+      "TensorFlow",
+      "Reinforcement Learning",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 4.4
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 4.4
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.2
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.65,
+      "interview_completion_rate": 0.5,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-04-03",
+      "notice_period_days": 90,
+      "profile_completeness": 0.81,
+      "github_activity_score": 91.2
+    }
+  },
+  {
+    "candidate_id": "CAND_094",
+    "name": "Harper Patel",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 6.2,
+    "skills": [
+      "Scikit-Learn",
+      "Data Science",
+      "Transformers",
+      "Computer Vision",
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "Reinforcement Learning",
+      "Machine Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 3.7
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 2.5
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.84,
+      "interview_completion_rate": 0.92,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-07",
+      "notice_period_days": 45,
+      "profile_completeness": 0.77,
+      "github_activity_score": 67.8
+    }
+  },
+  {
+    "candidate_id": "CAND_095",
+    "name": "Michael Jones",
+    "current_title": "Database Administrator",
+    "years_of_experience": 3.7,
+    "skills": [
+      "Marketing",
+      "Git",
+      "Node.js",
+      "HTML",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Database Administrator",
+        "duration_years": 3.7
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.66,
+      "interview_completion_rate": 0.46,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-11-03",
+      "notice_period_days": 0,
+      "profile_completeness": 0.63,
+      "github_activity_score": 32.3
+    }
+  },
+  {
+    "candidate_id": "CAND_096",
+    "name": "Amelia Li",
+    "current_title": "AI Engineer",
+    "years_of_experience": 2.9,
+    "skills": [
+      "Scikit-Learn",
+      "LLMs",
+      "Transformers",
+      "Computer Vision",
+      "Python",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "AI Engineer",
+        "duration_years": 2.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.7,
+      "interview_completion_rate": 0.59,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-10-17",
+      "notice_period_days": 60,
+      "profile_completeness": 0.73,
+      "github_activity_score": 89.1
+    }
+  },
+  {
+    "candidate_id": "CAND_097",
+    "name": "Noah Martinez",
+    "current_title": "Data Scientist",
+    "years_of_experience": 1.5,
+    "skills": [
+      "LLMs",
+      "GPT",
+      "Python",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Data Scientist",
+        "duration_years": 1.5
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.92,
+      "interview_completion_rate": 0.79,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-02-03",
+      "notice_period_days": 60,
+      "profile_completeness": 0.5,
+      "github_activity_score": 19.7
+    }
+  },
+  {
+    "candidate_id": "CAND_098",
+    "name": "Mei Moore",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 7.4,
+    "skills": [
+      "Transformers",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "Python",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 4.4
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 3.0
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.99,
+      "interview_completion_rate": 0.95,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-28",
+      "notice_period_days": 60,
+      "profile_completeness": 0.91,
+      "github_activity_score": 66.1
+    }
+  },
+  {
+    "candidate_id": "CAND_099",
+    "name": "Olivia Johnson",
+    "current_title": "Senior ML Engineer",
+    "years_of_experience": 8.7,
+    "skills": [
+      "LLMs",
+      "Python",
+      "Neural Networks",
+      "GPT",
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 5.2
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 3.5
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.9,
+      "interview_completion_rate": 0.9,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-30",
+      "notice_period_days": 45,
+      "profile_completeness": 0.95,
+      "github_activity_score": 22.6
+    }
+  },
+  {
+    "candidate_id": "CAND_100",
+    "name": "Liam Lopez",
+    "current_title": "Computer Vision Engineer",
+    "years_of_experience": 4.8,
+    "skills": [
+      "Scikit-Learn",
+      "LLMs",
+      "Machine Learning",
+      "Computer Vision",
+      "TensorFlow",
+      "Python",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Computer Vision Engineer",
+        "duration_years": 4.8
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.38,
+      "interview_completion_rate": 0.65,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-07-12",
+      "notice_period_days": 90,
+      "profile_completeness": 0.51,
+      "github_activity_score": 52.7
+    }
+  },
+  {
+    "candidate_id": "CAND_101",
+    "name": "Elena Tanaka",
+    "current_title": "Operations Coordinator",
+    "years_of_experience": 3.9,
+    "skills": [
+      "Scikit-Learn",
+      "LLMs",
+      "Marketing",
+      "Machine Learning",
+      "Transformers",
+      "Computer Vision",
+      "TensorFlow",
+      "GPT",
+      "Python",
+      "Natural Language Processing",
+      "Excel"
+    ],
+    "career_history": [
+      {
+        "title": "Operations Coordinator",
+        "duration_years": 3.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.4,
+      "interview_completion_rate": 0.81,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-09-09",
+      "notice_period_days": 90,
+      "profile_completeness": 0.55,
+      "github_activity_score": 11.7
+    }
+  },
+  {
+    "candidate_id": "CAND_102",
+    "name": "Lucas Moore",
+    "current_title": "Data Scientist",
+    "years_of_experience": 2.4,
+    "skills": [
+      "Scikit-Learn",
+      "BERT",
+      "Transformers",
+      "Computer Vision",
+      "PyTorch",
+      "TensorFlow",
+      "Python",
+      "Machine Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Data Scientist",
+        "duration_years": 2.4
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.76,
+      "interview_completion_rate": 0.72,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-04-02",
+      "notice_period_days": 45,
+      "profile_completeness": 0.96,
+      "github_activity_score": 40.8
+    }
+  },
+  {
+    "candidate_id": "CAND_103",
+    "name": "Evelyn Singh",
+    "current_title": "Principal AI Researcher",
+    "years_of_experience": 7.3,
+    "skills": [
+      "BERT",
+      "Data Science",
+      "Machine Learning",
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Principal AI Researcher",
+        "duration_years": 4.4
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.87,
+      "interview_completion_rate": 0.89,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-16",
+      "notice_period_days": 60,
+      "profile_completeness": 0.86,
+      "github_activity_score": 35.9
+    }
+  },
+  {
+    "candidate_id": "CAND_104",
+    "name": "Mia Li",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 9.4,
+    "skills": [
+      "Scikit-Learn",
+      "Docker",
+      "PyTorch",
+      "Computer Vision",
+      "GPT",
+      "Python",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 3.8
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 3.8
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 1.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.95,
+      "interview_completion_rate": 0.82,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-05",
+      "notice_period_days": 60,
+      "profile_completeness": 0.87,
+      "github_activity_score": 31.5
+    }
+  },
+  {
+    "candidate_id": "CAND_105",
+    "name": "Sophia Sharma",
+    "current_title": "DevOps Engineer",
+    "years_of_experience": 6.3,
+    "skills": [
+      "React",
+      "Marketing",
+      "Git",
+      "PyTorch",
+      "Node.js",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "DevOps Engineer",
+        "duration_years": 6.3
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.3,
+      "interview_completion_rate": 0.73,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-12-03",
+      "notice_period_days": 90,
+      "profile_completeness": 0.97,
+      "github_activity_score": 89.1
+    }
+  },
+  {
+    "candidate_id": "CAND_106",
+    "name": "Mei Davis",
+    "current_title": "Principal AI Researcher",
+    "years_of_experience": 15.0,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "Data Science",
+      "Git",
+      "Docker",
+      "Machine Learning",
+      "PyTorch",
+      "TensorFlow",
+      "Neural Networks",
+      "SQL",
+      "Python",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Principal AI Researcher",
+        "duration_years": 6.0
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 6.0
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 3.0
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.81,
+      "interview_completion_rate": 0.96,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-11-28",
+      "notice_period_days": 120,
+      "profile_completeness": 0.59,
+      "github_activity_score": 92.8
+    }
+  },
+  {
+    "candidate_id": "CAND_107",
+    "name": "Henry Patel",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 13.4,
+    "skills": [
+      "LLMs",
+      "Scikit-Learn",
+      "BERT",
+      "Machine Learning",
+      "Reinforcement Learning",
+      "SQL",
+      "Python",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 5.4
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 5.4
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.7
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.65,
+      "interview_completion_rate": 0.96,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-02-10",
+      "notice_period_days": 15,
+      "profile_completeness": 0.9,
+      "github_activity_score": 39.8
+    }
+  },
+  {
+    "candidate_id": "CAND_108",
+    "name": "Benjamin Martin",
+    "current_title": "Sales Executive",
+    "years_of_experience": 2.8,
+    "skills": [
+      "Scikit-Learn",
+      "Marketing",
+      "Machine Learning",
+      "Computer Vision",
+      "Neural Networks",
+      "Python",
+      "Deep Learning",
+      "Natural Language Processing",
+      "Excel"
+    ],
+    "career_history": [
+      {
+        "title": "Sales Executive",
+        "duration_years": 2.8
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.93,
+      "interview_completion_rate": 0.9,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-05-16",
+      "notice_period_days": 45,
+      "profile_completeness": 0.83,
+      "github_activity_score": 26.6
+    }
+  },
+  {
+    "candidate_id": "CAND_109",
+    "name": "Alexander Jackson",
+    "current_title": "Database Administrator",
+    "years_of_experience": 5.8,
+    "skills": [
+      "React",
+      "CSS",
+      "Marketing",
+      "Git",
+      "TensorFlow",
+      "HTML",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Database Administrator",
+        "duration_years": 5.8
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.31,
+      "interview_completion_rate": 0.79,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-29",
+      "notice_period_days": 90,
+      "profile_completeness": 0.56,
+      "github_activity_score": 37.6
+    }
+  },
+  {
+    "candidate_id": "CAND_110",
+    "name": "Raj Jones",
+    "current_title": "Computer Vision Engineer",
+    "years_of_experience": 2.0,
+    "skills": [
+      "GPT",
+      "Transformers",
+      "Computer Vision",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Computer Vision Engineer",
+        "duration_years": 2.0
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.99,
+      "interview_completion_rate": 0.62,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-09-27",
+      "notice_period_days": 120,
+      "profile_completeness": 0.83,
+      "github_activity_score": 29.7
+    }
+  },
+  {
+    "candidate_id": "CAND_111",
+    "name": "Jacob Williams",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 6.2,
+    "skills": [
+      "LLMs",
+      "Computer Vision",
+      "PyTorch"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 6.2
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.38,
+      "interview_completion_rate": 0.9,
+      "open_to_work_flag": true,
+      "notice_period_days": 60,
+      "profile_completeness": 0.57,
+      "github_activity_score": 39.5
+    }
+  },
+  {
+    "candidate_id": "CAND_112",
+    "name": "Noah Anderson",
+    "current_title": "AI Engineer",
+    "years_of_experience": 6.0,
+    "skills": [
+      "Scikit-Learn",
+      "LLMs",
+      "Data Science",
+      "PyTorch",
+      "Computer Vision",
+      "Reinforcement Learning",
+      "GPT",
+      "Python",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "AI Engineer",
+        "duration_years": 3.6
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.4
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.81,
+      "interview_completion_rate": 0.88,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-06",
+      "notice_period_days": 60,
+      "profile_completeness": 0.65,
+      "github_activity_score": 12.0
+    }
+  },
+  {
+    "candidate_id": "CAND_113",
+    "name": "Elizabeth Anderson",
+    "current_title": "Content Writer",
+    "years_of_experience": 5.2,
+    "skills": [
+      "Scikit-Learn",
+      "Marketing",
+      "Transformers",
+      "Python",
+      "Computer Vision",
+      "Reinforcement Learning",
+      "GPT",
+      "Machine Learning",
+      "Excel"
+    ],
+    "career_history": [
+      {
+        "title": "Content Writer",
+        "duration_years": 5.2
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.93,
+      "interview_completion_rate": 0.63,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-07-30",
+      "notice_period_days": 120,
+      "profile_completeness": 0.67,
+      "github_activity_score": 26.1
+    }
+  },
+  {
+    "candidate_id": "CAND_114",
+    "name": "Daniel Moore",
+    "current_title": "Software Engineer (ML)",
+    "years_of_experience": 1.4,
+    "skills": [
+      "Scikit-Learn",
+      "BERT",
+      "Machine Learning",
+      "Transformers",
+      "PyTorch",
+      "GPT",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Software Engineer (ML)",
+        "duration_years": 1.4
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.46,
+      "interview_completion_rate": 0.68,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-02-08",
+      "notice_period_days": 15,
+      "profile_completeness": 0.97,
+      "github_activity_score": 75.3
+    }
+  },
+  {
+    "candidate_id": "CAND_115",
+    "name": "Avery Martin",
+    "current_title": "Software Engineer",
+    "years_of_experience": 9.0,
+    "skills": [
+      "LLMs",
+      "Marketing",
+      "React",
+      "Git",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Software Engineer",
+        "duration_years": 9.0
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.91,
+      "interview_completion_rate": 0.55,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-12-06",
+      "notice_period_days": 45,
+      "profile_completeness": 0.62,
+      "github_activity_score": 29.6
+    }
+  },
+  {
+    "candidate_id": "CAND_116",
+    "name": "Abigail Jackson",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 10.7,
+    "skills": [
+      "BERT",
+      "Git",
+      "Docker",
+      "Transformers",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "SQL",
+      "Python",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 4.3
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 4.3
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.1
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.77,
+      "interview_completion_rate": 0.59,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-04-17",
+      "notice_period_days": 90,
+      "profile_completeness": 0.76,
+      "github_activity_score": 47.2
+    }
+  },
+  {
+    "candidate_id": "CAND_117",
+    "name": "Sofia Wilson",
+    "current_title": "Lead Data Scientist",
+    "years_of_experience": 5.6,
+    "skills": [
+      "Data Science",
+      "Transformers",
+      "Neural Networks",
+      "GPT",
+      "Python",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Lead Data Scientist",
+        "duration_years": 3.4
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.2
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.83,
+      "interview_completion_rate": 0.85,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-19",
+      "notice_period_days": 45,
+      "profile_completeness": 0.61,
+      "github_activity_score": 87.2
+    }
+  },
+  {
+    "candidate_id": "CAND_118",
+    "name": "Oliver Papadopoulos",
+    "current_title": "AI Engineer",
+    "years_of_experience": 1.2,
+    "skills": [
+      "LLMs",
+      "Scikit-Learn",
+      "BERT",
+      "Transformers",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "AI Engineer",
+        "duration_years": 1.2
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.56,
+      "interview_completion_rate": 0.72,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-03",
+      "notice_period_days": 30,
+      "profile_completeness": 0.69,
+      "github_activity_score": 64.4
+    }
+  },
+  {
+    "candidate_id": "CAND_119",
+    "name": "Raj Miller",
+    "current_title": "Receptionist",
+    "years_of_experience": 8.0,
+    "skills": [
+      "LLMs",
+      "Scikit-Learn",
+      "Marketing",
+      "Data Science",
+      "Transformers",
+      "Reinforcement Learning",
+      "GPT",
+      "Natural Language Processing",
+      "Excel"
+    ],
+    "career_history": [
+      {
+        "title": "Receptionist",
+        "duration_years": 8.0
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.53,
+      "interview_completion_rate": 0.97,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-03-13",
+      "notice_period_days": 15,
+      "profile_completeness": 0.98,
+      "github_activity_score": 20.6
+    }
+  },
+  {
+    "candidate_id": "CAND_120",
+    "name": "Abigail Tanaka",
+    "current_title": "Lead Data Scientist",
+    "years_of_experience": 5.4,
+    "skills": [
+      "Scikit-Learn",
+      "Data Science",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "Python",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Lead Data Scientist",
+        "duration_years": 3.2
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.2
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.95,
+      "interview_completion_rate": 0.8,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-06-11",
+      "notice_period_days": 60,
+      "profile_completeness": 0.76,
+      "github_activity_score": 54.8
+    }
+  },
+  {
+    "candidate_id": "CAND_121",
+    "name": "James Miller",
+    "current_title": "Software Engineer (ML)",
+    "years_of_experience": 4.0,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "Transformers",
+      "Computer Vision",
+      "Python",
+      "TensorFlow",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Software Engineer (ML)",
+        "duration_years": 4.0
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.57,
+      "interview_completion_rate": 0.9,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-09-21",
+      "notice_period_days": 90,
+      "profile_completeness": 0.97,
+      "github_activity_score": 40.4
+    }
+  },
+  {
+    "candidate_id": "CAND_122",
+    "name": "Kenji Thomas",
+    "current_title": "AI Engineer",
+    "years_of_experience": 8.3,
+    "skills": [
+      "Scikit-Learn",
+      "BERT",
+      "PyTorch",
+      "Python",
+      "TensorFlow",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "AI Engineer",
+        "duration_years": 5.0
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 3.3
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.94,
+      "interview_completion_rate": 0.8,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-06-06",
+      "notice_period_days": 60,
+      "profile_completeness": 0.92,
+      "github_activity_score": 16.7
+    }
+  },
+  {
+    "candidate_id": "CAND_123",
+    "name": "Noah Martin",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 9.2,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "Docker",
+      "Transformers",
+      "Neural Networks",
+      "GPT",
+      "Python",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 3.7
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 3.7
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 1.8
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.95,
+      "interview_completion_rate": 0.95,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-06-21",
+      "notice_period_days": 0,
+      "profile_completeness": 0.77,
+      "github_activity_score": 47.0
+    }
+  },
+  {
+    "candidate_id": "CAND_124",
+    "name": "Benjamin Brown",
+    "current_title": "System Administrator",
+    "years_of_experience": 9.7,
+    "skills": [
+      "Scikit-Learn",
+      "LLMs",
+      "Machine Learning",
+      "Deep Learning",
+      "Python",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "System Administrator",
+        "duration_years": 9.7
+      }
+    ],
+    "redrob_signals": {
+      "interview_completion_rate": 0.54,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-12-30",
+      "notice_period_days": 30,
+      "profile_completeness": 0.9,
+      "github_activity_score": 17.1
+    }
+  },
+  {
+    "candidate_id": "CAND_125",
+    "name": "Michael Gonzalez",
+    "current_title": "AI Engineer",
+    "years_of_experience": 2.3,
+    "skills": [
+      "Scikit-Learn",
+      "BERT",
+      "Machine Learning",
+      "Computer Vision",
+      "GPT",
+      "Python",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "AI Engineer",
+        "duration_years": 2.3
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.63,
+      "interview_completion_rate": 0.78,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-18",
+      "notice_period_days": 45,
+      "profile_completeness": 0.92,
+      "github_activity_score": 68.0
+    }
+  },
+  {
+    "candidate_id": "CAND_126",
+    "name": "Logan Park",
+    "current_title": "Principal AI Researcher",
+    "years_of_experience": 13.3,
+    "skills": [
+      "LLMs",
+      "Docker",
+      "Computer Vision",
+      "Neural Networks",
+      "Python",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Principal AI Researcher",
+        "duration_years": 5.3
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 5.3
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.7
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.76,
+      "interview_completion_rate": 0.51,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-06-21",
+      "notice_period_days": 15,
+      "profile_completeness": 0.79,
+      "github_activity_score": 77.7
+    }
+  },
+  {
+    "candidate_id": "CAND_127",
+    "name": "Kenji Hernandez",
+    "current_title": "AI Engineer",
+    "years_of_experience": 2.7,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "GPT",
+      "Python",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "AI Engineer",
+        "duration_years": 2.7
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.82,
+      "interview_completion_rate": 0.87,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-10-16",
+      "notice_period_days": 90,
+      "profile_completeness": 0.99,
+      "github_activity_score": 14.8
+    }
+  },
+  {
+    "candidate_id": "CAND_128",
+    "name": "Liam Patel",
+    "current_title": "AI Engineer",
+    "years_of_experience": 7.6,
+    "skills": [
+      "Scikit-Learn",
+      "BERT",
+      "Data Science",
+      "PyTorch",
+      "Python",
+      "TensorFlow",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "GPT",
+      "Machine Learning"
+    ],
+    "career_history": [
+      {
+        "title": "AI Engineer",
+        "duration_years": 4.6
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 3.0
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.94,
+      "interview_completion_rate": 0.93,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-06-09",
+      "notice_period_days": 60,
+      "profile_completeness": 0.72,
+      "github_activity_score": 71.2
+    }
+  },
+  {
+    "candidate_id": "CAND_129",
+    "name": "Jacob Brown",
+    "current_title": "Principal AI Researcher",
+    "years_of_experience": 7.2,
+    "skills": [
+      "Data Science",
+      "Transformers",
+      "PyTorch",
+      "Reinforcement Learning",
+      "GPT",
+      "Python",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Principal AI Researcher",
+        "duration_years": 4.3
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.8,
+      "interview_completion_rate": 0.88,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-24",
+      "notice_period_days": 30,
+      "profile_completeness": 0.54,
+      "github_activity_score": 48.8
+    }
+  },
+  {
+    "candidate_id": "CAND_130",
+    "name": "Anjali Garcia",
+    "current_title": "QA Engineer",
+    "years_of_experience": 5.9,
+    "skills": [
+      "React",
+      "Marketing",
+      "Git",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "QA Engineer",
+        "duration_years": 5.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.42,
+      "interview_completion_rate": 0.56,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-10-20",
+      "notice_period_days": 15,
+      "profile_completeness": 0.53,
+      "github_activity_score": 49.1
+    }
+  },
+  {
+    "candidate_id": "CAND_131",
+    "name": "Priya Martin",
+    "current_title": "Principal AI Researcher",
+    "years_of_experience": 14.2,
+    "skills": [
+      "LLMs",
+      "Scikit-Learn",
+      "Computer Vision",
+      "Python",
+      "Neural Networks",
+      "GPT",
+      "SQL",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Principal AI Researcher",
+        "duration_years": 5.7
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 5.7
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.8
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.62,
+      "interview_completion_rate": 0.48,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-12-09",
+      "notice_period_days": 30,
+      "profile_completeness": 0.92,
+      "github_activity_score": 44.2
+    }
+  },
+  {
+    "candidate_id": "CAND_132",
+    "name": "Abigail Garcia",
+    "current_title": "DevOps Engineer",
+    "years_of_experience": 8.5,
+    "skills": [
+      "PyTorch",
+      "Scikit-Learn",
+      "TensorFlow",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "DevOps Engineer",
+        "duration_years": 8.5
+      }
+    ],
+    "redrob_signals": {
+      "interview_completion_rate": 0.57,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-09-08",
+      "notice_period_days": 120,
+      "profile_completeness": 0.62,
+      "github_activity_score": 43.8
+    }
+  },
+  {
+    "candidate_id": "CAND_133",
+    "name": "Henry Singh",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 6.0,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "Data Science",
+      "Transformers",
+      "PyTorch",
+      "Computer Vision",
+      "Python",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "Machine Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 3.6
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 2.4
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.98,
+      "interview_completion_rate": 0.97,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-06",
+      "notice_period_days": 15,
+      "profile_completeness": 0.75,
+      "github_activity_score": 67.0
+    }
+  },
+  {
+    "candidate_id": "CAND_134",
+    "name": "Kenji Martin",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 12.9,
+    "skills": [
+      "Scikit-Learn",
+      "BERT",
+      "Docker",
+      "Machine Learning",
+      "Transformers",
+      "PyTorch",
+      "Neural Networks",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 5.2
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 5.2
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.6
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.36,
+      "interview_completion_rate": 0.86,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-04-05",
+      "notice_period_days": 90,
+      "profile_completeness": 0.81,
+      "github_activity_score": 60.7
+    }
+  },
+  {
+    "candidate_id": "CAND_135",
+    "name": "Yuki Jackson",
+    "current_title": "QA Engineer",
+    "years_of_experience": 10.0,
+    "skills": [
+      "React",
+      "Git",
+      "Node.js",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "QA Engineer",
+        "duration_years": 10.0
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.45,
+      "interview_completion_rate": 0.62,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-07-17",
+      "notice_period_days": 60,
+      "profile_completeness": 0.85,
+      "github_activity_score": 23.6
+    }
+  },
+  {
+    "candidate_id": "CAND_136",
+    "name": "Oliver Brown",
+    "current_title": "Receptionist",
+    "years_of_experience": 4.9,
+    "skills": [
+      "LLMs",
+      "Marketing",
+      "Data Science",
+      "PyTorch",
+      "Computer Vision",
+      "Python",
+      "TensorFlow",
+      "Neural Networks",
+      "GPT",
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing",
+      "Excel"
+    ],
+    "career_history": [
+      {
+        "title": "Receptionist",
+        "duration_years": 4.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.81,
+      "interview_completion_rate": 0.61,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-11-08",
+      "notice_period_days": 120,
+      "profile_completeness": 0.6,
+      "github_activity_score": 53.5
+    }
+  },
+  {
+    "candidate_id": "CAND_137",
+    "name": "Amelia Papadopoulos",
+    "current_title": "Accountant",
+    "years_of_experience": 8.4,
+    "skills": [
+      "TensorFlow",
+      "Natural Language Processing",
+      "Transformers"
+    ],
+    "career_history": [
+      {
+        "title": "Accountant",
+        "duration_years": 8.4
+      }
+    ],
+    "redrob_signals": {
+      "interview_completion_rate": 0.5,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-01-11",
+      "notice_period_days": 60,
+      "profile_completeness": 0.71,
+      "github_activity_score": 51.6
+    }
+  },
+  {
+    "candidate_id": "CAND_138",
+    "name": "Elena Park",
+    "current_title": "AI Engineer",
+    "years_of_experience": 5.3,
+    "skills": [
+      "Scikit-Learn",
+      "BERT",
+      "Machine Learning",
+      "Transformers",
+      "Computer Vision",
+      "PyTorch",
+      "Python",
+      "Neural Networks",
+      "TensorFlow",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "AI Engineer",
+        "duration_years": 3.2
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.1
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.99,
+      "interview_completion_rate": 0.86,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-23",
+      "notice_period_days": 60,
+      "profile_completeness": 0.88,
+      "github_activity_score": 82.8
+    }
+  },
+  {
+    "candidate_id": "CAND_139",
+    "name": "Elijah Lopez",
+    "current_title": "Data Scientist",
+    "years_of_experience": 1.5,
+    "skills": [
+      "TensorFlow",
+      "Deep Learning",
+      "GPT",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Data Scientist",
+        "duration_years": 1.5
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.62,
+      "interview_completion_rate": 0.5,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-08-19",
+      "notice_period_days": 60,
+      "profile_completeness": 0.54,
+      "github_activity_score": 22.1
+    }
+  },
+  {
+    "candidate_id": "CAND_140",
+    "name": "Amit Gonzalez",
+    "current_title": "ML Engineer",
+    "years_of_experience": 4.6,
+    "skills": [
+      "Scikit-Learn",
+      "BERT",
+      "Machine Learning",
+      "Transformers",
+      "Computer Vision",
+      "Python",
+      "GPT",
+      "TensorFlow"
+    ],
+    "career_history": [
+      {
+        "title": "ML Engineer",
+        "duration_years": 4.6
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.4,
+      "interview_completion_rate": 0.63,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-10-23",
+      "notice_period_days": 90,
+      "profile_completeness": 0.77,
+      "github_activity_score": 92.7
+    }
+  },
+  {
+    "candidate_id": "CAND_141",
+    "name": "Elena Johnson",
+    "current_title": "Office Assistant",
+    "years_of_experience": 6.1,
+    "skills": [
+      "LLMs",
+      "Scikit-Learn",
+      "Marketing",
+      "Data Science",
+      "Transformers",
+      "Computer Vision",
+      "PyTorch",
+      "Python",
+      "Neural Networks",
+      "GPT",
+      "TensorFlow",
+      "Natural Language Processing",
+      "Excel"
+    ],
+    "career_history": [
+      {
+        "title": "Office Assistant",
+        "duration_years": 6.1
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.97,
+      "interview_completion_rate": 0.69,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-12-15",
+      "notice_period_days": 60,
+      "profile_completeness": 0.75,
+      "github_activity_score": 54.5
+    }
+  },
+  {
+    "candidate_id": "CAND_142",
+    "name": "Charlotte Moore",
+    "current_title": "Senior ML Engineer",
+    "years_of_experience": 8.1,
+    "skills": [
+      "Scikit-Learn",
+      "Data Science",
+      "Transformers",
+      "Computer Vision",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "GPT",
+      "Python",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 4.9
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 3.2
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.95,
+      "interview_completion_rate": 0.93,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-27",
+      "notice_period_days": 45,
+      "profile_completeness": 0.56,
+      "github_activity_score": 20.3
+    }
+  },
+  {
+    "candidate_id": "CAND_143",
+    "name": "Avery Rodriguez",
+    "current_title": "Computer Vision Engineer",
+    "years_of_experience": 2.4,
+    "skills": [
+      "Scikit-Learn",
+      "LLMs",
+      "Transformers",
+      "Python",
+      "GPT",
+      "TensorFlow",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Computer Vision Engineer",
+        "duration_years": 2.4
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.87,
+      "interview_completion_rate": 0.66,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-02-28",
+      "notice_period_days": 15,
+      "profile_completeness": 0.91,
+      "github_activity_score": 62.9
+    }
+  },
+  {
+    "candidate_id": "CAND_144",
+    "name": "Noah Jackson",
+    "current_title": "AI Engineer",
+    "years_of_experience": 4.3,
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "career_history": [
+      {
+        "title": "AI Engineer",
+        "duration_years": 4.3
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.5,
+      "interview_completion_rate": 0.72,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-07-04",
+      "notice_period_days": 30,
+      "profile_completeness": 0.64,
+      "github_activity_score": 34.1
+    }
+  },
+  {
+    "candidate_id": "CAND_145",
+    "name": "Isabella Davis",
+    "current_title": "Lead Data Scientist",
+    "years_of_experience": 6.7,
+    "skills": [
+      "BERT",
+      "PyTorch",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "Python",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Lead Data Scientist",
+        "duration_years": 4.0
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.7
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.9,
+      "interview_completion_rate": 0.86,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-29",
+      "notice_period_days": 60,
+      "profile_completeness": 0.79,
+      "github_activity_score": 34.2
+    }
+  },
+  {
+    "candidate_id": "CAND_146",
+    "name": "Abigail Jackson",
+    "current_title": "Lead Data Scientist",
+    "years_of_experience": 8.2,
+    "skills": [
+      "Scikit-Learn",
+      "Computer Vision",
+      "Python",
+      "Neural Networks",
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Lead Data Scientist",
+        "duration_years": 4.9
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 3.3
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.97,
+      "interview_completion_rate": 0.87,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-05-24",
+      "notice_period_days": 30,
+      "profile_completeness": 0.85,
+      "github_activity_score": 86.5
+    }
+  },
+  {
+    "candidate_id": "CAND_147",
+    "name": "Priya Wang",
+    "current_title": "ML Engineer",
+    "years_of_experience": 4.6,
+    "skills": [
+      "Scikit-Learn",
+      "Computer Vision",
+      "TensorFlow",
+      "Python",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "ML Engineer",
+        "duration_years": 4.6
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.78,
+      "interview_completion_rate": 0.43,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-08-13",
+      "notice_period_days": 120,
+      "profile_completeness": 0.92,
+      "github_activity_score": 11.5
+    }
+  },
+  {
+    "candidate_id": "CAND_148",
+    "name": "Alexander Garcia",
+    "current_title": "Office Assistant",
+    "years_of_experience": 3.0,
+    "skills": [
+      "Scikit-Learn",
+      "LLMs",
+      "Marketing",
+      "Transformers",
+      "PyTorch",
+      "Python",
+      "Computer Vision",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "GPT",
+      "Machine Learning",
+      "Natural Language Processing",
+      "Excel"
+    ],
+    "career_history": [
+      {
+        "title": "Office Assistant",
+        "duration_years": 3.0
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.91,
+      "interview_completion_rate": 0.46,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-02-21",
+      "notice_period_days": 0,
+      "profile_completeness": 0.69,
+      "github_activity_score": 91.3
+    }
+  },
+  {
+    "candidate_id": "CAND_149",
+    "name": "Isabella Jackson",
+    "current_title": "Lead Data Scientist",
+    "years_of_experience": 5.3,
+    "skills": [
+      "PyTorch",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "GPT",
+      "Python",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Lead Data Scientist",
+        "duration_years": 3.2
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.1
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.87,
+      "interview_completion_rate": 0.86,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-19",
+      "notice_period_days": 30,
+      "profile_completeness": 0.71,
+      "github_activity_score": 21.9
+    }
+  },
+  {
+    "candidate_id": "CAND_150",
+    "name": "James Williams",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 14.5,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "Data Science",
+      "Git",
+      "Docker",
+      "PyTorch",
+      "Python",
+      "Neural Networks",
+      "SQL",
+      "TensorFlow",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 5.8
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 5.8
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.31,
+      "interview_completion_rate": 0.79,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-01-01",
+      "notice_period_days": 90,
+      "profile_completeness": 0.61,
+      "github_activity_score": 77.3
+    }
+  },
+  {
+    "candidate_id": "CAND_151",
+    "name": "Abigail Wang",
+    "current_title": "Principal AI Researcher",
+    "years_of_experience": 6.2,
+    "skills": [
+      "Scikit-Learn",
+      "Data Science",
+      "Transformers",
+      "Python",
+      "Computer Vision",
+      "Neural Networks",
+      "GPT",
+      "Machine Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Principal AI Researcher",
+        "duration_years": 3.7
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.5
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.82,
+      "interview_completion_rate": 0.9,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-05-27",
+      "notice_period_days": 15,
+      "profile_completeness": 0.92,
+      "github_activity_score": 69.3
+    }
+  },
+  {
+    "candidate_id": "CAND_152",
+    "name": "Emma Lopez",
+    "current_title": "Receptionist",
+    "years_of_experience": 9.6,
+    "skills": [
+      "Python",
+      "PyTorch"
+    ],
+    "career_history": [
+      {
+        "title": "Receptionist",
+        "duration_years": 9.6
+      }
+    ],
+    "redrob_signals": {
+      "interview_completion_rate": 0.92,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-12-24",
+      "notice_period_days": 60,
+      "profile_completeness": 0.84,
+      "github_activity_score": 78.6
+    }
+  },
+  {
+    "candidate_id": "CAND_153",
+    "name": "Harper Miller",
+    "current_title": "AI Engineer",
+    "years_of_experience": 7.8,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "Data Science",
+      "Transformers",
+      "PyTorch",
+      "Computer Vision",
+      "TensorFlow",
+      "Python",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "Machine Learning"
+    ],
+    "career_history": [
+      {
+        "title": "AI Engineer",
+        "duration_years": 4.7
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 3.1
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.99,
+      "interview_completion_rate": 0.83,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-23",
+      "notice_period_days": 60,
+      "profile_completeness": 0.75,
+      "github_activity_score": 47.4
+    }
+  },
+  {
+    "candidate_id": "CAND_154",
+    "name": "Ava Martinez",
+    "current_title": "Software Engineer",
+    "years_of_experience": 7.3,
+    "skills": [
+      "CSS",
+      "Git",
+      "Node.js",
+      "HTML",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Software Engineer",
+        "duration_years": 7.3
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.81,
+      "interview_completion_rate": 0.91,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-02-24",
+      "notice_period_days": 0,
+      "profile_completeness": 0.96,
+      "github_activity_score": 20.4
+    }
+  },
+  {
+    "candidate_id": "CAND_155",
+    "name": "Emma Garcia",
+    "current_title": "AI Engineer",
+    "years_of_experience": 2.0,
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Python",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "AI Engineer",
+        "duration_years": 2.0
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.54,
+      "interview_completion_rate": 0.71,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-04-05",
+      "notice_period_days": 30,
+      "profile_completeness": 0.56,
+      "github_activity_score": 80.3
+    }
+  },
+  {
+    "candidate_id": "CAND_156",
+    "name": "Anjali Williams",
+    "current_title": "Senior ML Engineer",
+    "years_of_experience": 7.3,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "PyTorch",
+      "Python",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "Machine Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 4.4
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 2.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.85,
+      "interview_completion_rate": 0.9,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-14",
+      "notice_period_days": 15,
+      "profile_completeness": 0.68,
+      "github_activity_score": 55.0
+    }
+  },
+  {
+    "candidate_id": "CAND_157",
+    "name": "Olivia Thomas",
+    "current_title": "Data Scientist",
+    "years_of_experience": 2.6,
+    "skills": [
+      "PyTorch",
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Data Scientist",
+        "duration_years": 2.6
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.94,
+      "interview_completion_rate": 0.51,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-09-19",
+      "notice_period_days": 120,
+      "profile_completeness": 0.96,
+      "github_activity_score": 76.7
+    }
+  },
+  {
+    "candidate_id": "CAND_158",
+    "name": "Mei Lopez",
+    "current_title": "Senior ML Engineer",
+    "years_of_experience": 6.9,
+    "skills": [
+      "Scikit-Learn",
+      "Data Science",
+      "Transformers",
+      "Computer Vision",
+      "PyTorch",
+      "Python",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 4.1
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 2.8
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.86,
+      "interview_completion_rate": 0.96,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-05-31",
+      "notice_period_days": 30,
+      "profile_completeness": 0.98,
+      "github_activity_score": 16.2
+    }
+  },
+  {
+    "candidate_id": "CAND_159",
+    "name": "Jacob Jackson",
+    "current_title": "Accountant",
+    "years_of_experience": 6.3,
+    "skills": [
+      "Deep Learning",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Accountant",
+        "duration_years": 6.3
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 1.0,
+      "interview_completion_rate": 0.87,
+      "open_to_work_flag": true,
+      "notice_period_days": 0,
+      "profile_completeness": 0.97,
+      "github_activity_score": 12.2
+    }
+  },
+  {
+    "candidate_id": "CAND_160",
+    "name": "Alexander Brown",
+    "current_title": "Principal AI Researcher",
+    "years_of_experience": 5.9,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "Data Science",
+      "PyTorch",
+      "Computer Vision",
+      "Python",
+      "GPT",
+      "TensorFlow",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Principal AI Researcher",
+        "duration_years": 3.5
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.4
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.93,
+      "interview_completion_rate": 0.88,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-06-02",
+      "notice_period_days": 15,
+      "profile_completeness": 0.64,
+      "github_activity_score": 14.0
+    }
+  },
+  {
+    "candidate_id": "CAND_161",
+    "name": "Isabella Davis",
+    "current_title": "AI Engineer",
+    "years_of_experience": 6.1,
+    "skills": [
+      "LLMs",
+      "Data Science",
+      "PyTorch",
+      "Python",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "TensorFlow"
+    ],
+    "career_history": [
+      {
+        "title": "AI Engineer",
+        "duration_years": 3.7
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.4
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.82,
+      "interview_completion_rate": 0.89,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-22",
+      "notice_period_days": 60,
+      "profile_completeness": 0.87,
+      "github_activity_score": 38.6
+    }
+  },
+  {
+    "candidate_id": "CAND_162",
+    "name": "Kenji Lopez",
+    "current_title": "Sales Executive",
+    "years_of_experience": 8.6,
+    "skills": [
+      "Python",
+      "Scikit-Learn",
+      "Deep Learning",
+      "PyTorch",
+      "LLMs",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Sales Executive",
+        "duration_years": 8.6
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.45,
+      "interview_completion_rate": 0.58,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-04-29",
+      "profile_completeness": 0.58,
+      "github_activity_score": 71.7
+    }
+  },
+  {
+    "candidate_id": "CAND_163",
+    "name": "Michael Taylor",
+    "current_title": "AI Engineer",
+    "years_of_experience": 7.2,
+    "skills": [
+      "LLMs",
+      "Scikit-Learn",
+      "Data Science",
+      "PyTorch",
+      "Python",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "TensorFlow"
+    ],
+    "career_history": [
+      {
+        "title": "AI Engineer",
+        "duration_years": 4.3
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.83,
+      "interview_completion_rate": 0.96,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-23",
+      "notice_period_days": 15,
+      "profile_completeness": 0.93,
+      "github_activity_score": 60.0
+    }
+  },
+  {
+    "candidate_id": "CAND_164",
+    "name": "Chen Rodriguez",
+    "current_title": "Content Writer",
+    "years_of_experience": 8.8,
+    "skills": [
+      "PyTorch",
+      "Python",
+      "Computer Vision",
+      "Transformers"
+    ],
+    "career_history": [
+      {
+        "title": "Content Writer",
+        "duration_years": 8.8
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.35,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-08-03",
+      "notice_period_days": 45,
+      "profile_completeness": 0.9,
+      "github_activity_score": 18.3
+    }
+  },
+  {
+    "candidate_id": "CAND_165",
+    "name": "Mei Wilson",
+    "current_title": "Operations Coordinator",
+    "years_of_experience": 3.7,
+    "skills": [
+      "LLMs",
+      "Scikit-Learn",
+      "BERT",
+      "Data Science",
+      "Marketing",
+      "Neural Networks",
+      "Machine Learning",
+      "Excel"
+    ],
+    "career_history": [
+      {
+        "title": "Operations Coordinator",
+        "duration_years": 3.7
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.58,
+      "interview_completion_rate": 0.42,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-04-02",
+      "notice_period_days": 30,
+      "profile_completeness": 0.61,
+      "github_activity_score": 26.8
+    }
+  },
+  {
+    "candidate_id": "CAND_166",
+    "name": "Priya Wilson",
+    "current_title": "Product Marketing Associate",
+    "years_of_experience": 5.2,
+    "skills": [
+      "LLMs",
+      "Marketing",
+      "Machine Learning",
+      "Transformers",
+      "Computer Vision",
+      "TensorFlow",
+      "Reinforcement Learning",
+      "GPT",
+      "Python",
+      "Deep Learning",
+      "Natural Language Processing",
+      "Excel"
+    ],
+    "career_history": [
+      {
+        "title": "Product Marketing Associate",
+        "duration_years": 5.2
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.64,
+      "interview_completion_rate": 0.45,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-04-20",
+      "notice_period_days": 45,
+      "profile_completeness": 0.6,
+      "github_activity_score": 89.6
+    }
+  },
+  {
+    "candidate_id": "CAND_167",
+    "name": "Amit Hernandez",
+    "current_title": "Computer Vision Engineer",
+    "years_of_experience": 4.9,
+    "skills": [
+      "LLMs",
+      "Scikit-Learn",
+      "BERT",
+      "PyTorch",
+      "Python",
+      "TensorFlow"
+    ],
+    "career_history": [
+      {
+        "title": "Computer Vision Engineer",
+        "duration_years": 4.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.43,
+      "interview_completion_rate": 0.59,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-14",
+      "notice_period_days": 120,
+      "profile_completeness": 0.89,
+      "github_activity_score": 15.3
+    }
+  },
+  {
+    "candidate_id": "CAND_168",
+    "name": "Mason Rodriguez",
+    "current_title": "Lead Data Scientist",
+    "years_of_experience": 14.6,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "Data Science",
+      "Computer Vision",
+      "GPT",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Lead Data Scientist",
+        "duration_years": 5.8
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 5.8
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.85,
+      "interview_completion_rate": 0.84,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-09-08",
+      "notice_period_days": 120,
+      "profile_completeness": 0.99,
+      "github_activity_score": 45.0
+    }
+  },
+  {
+    "candidate_id": "CAND_169",
+    "name": "Emily Jackson",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 9.4,
+    "skills": [
+      "LLMs",
+      "Scikit-Learn",
+      "Git",
+      "Docker",
+      "SQL",
+      "Python",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 3.8
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 3.8
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 1.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.69,
+      "interview_completion_rate": 0.51,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-09-25",
+      "notice_period_days": 30,
+      "profile_completeness": 0.59,
+      "github_activity_score": 13.4
+    }
+  },
+  {
+    "candidate_id": "CAND_170",
+    "name": "Isabella Hernandez",
+    "current_title": "Full Stack Developer",
+    "years_of_experience": 4.0,
+    "skills": [
+      "React",
+      "CSS",
+      "Marketing",
+      "Git",
+      "HTML",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Full Stack Developer",
+        "duration_years": 4.0
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.94,
+      "interview_completion_rate": 0.91,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-05-30",
+      "notice_period_days": 0,
+      "profile_completeness": 0.57,
+      "github_activity_score": 73.4
+    }
+  },
+  {
+    "candidate_id": "CAND_171",
+    "name": "Ethan Martinez",
+    "current_title": "Computer Vision Engineer",
+    "years_of_experience": 4.8,
+    "skills": [
+      "Scikit-Learn",
+      "LLMs",
+      "BERT",
+      "Python",
+      "TensorFlow",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Computer Vision Engineer",
+        "duration_years": 4.8
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.98,
+      "interview_completion_rate": 0.84,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-08-06",
+      "notice_period_days": 45,
+      "profile_completeness": 0.82,
+      "github_activity_score": 25.7
+    }
+  },
+  {
+    "candidate_id": "CAND_172",
+    "name": "Alexander Sato",
+    "current_title": "DevOps Engineer",
+    "years_of_experience": 8.7,
+    "skills": [
+      "Marketing",
+      "CSS",
+      "Git",
+      "Node.js",
+      "HTML",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "DevOps Engineer",
+        "duration_years": 8.7
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.39,
+      "interview_completion_rate": 0.84,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-09-12",
+      "notice_period_days": 0,
+      "profile_completeness": 0.59,
+      "github_activity_score": 38.6
+    }
+  },
+  {
+    "candidate_id": "CAND_173",
+    "name": "Ava Davis",
+    "current_title": "Data Scientist",
+    "years_of_experience": 2.7,
+    "skills": [
+      "Scikit-Learn",
+      "Machine Learning",
+      "PyTorch",
+      "Python",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Data Scientist",
+        "duration_years": 2.7
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.52,
+      "interview_completion_rate": 0.78,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-07-02",
+      "notice_period_days": 90,
+      "profile_completeness": 0.82,
+      "github_activity_score": 89.8
+    }
+  },
+  {
+    "candidate_id": "CAND_174",
+    "name": "Sophia Sato",
+    "current_title": "Lead Data Scientist",
+    "years_of_experience": 6.5,
+    "skills": [
+      "Scikit-Learn",
+      "BERT",
+      "Data Science",
+      "Computer Vision",
+      "PyTorch",
+      "Python",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "TensorFlow"
+    ],
+    "career_history": [
+      {
+        "title": "Lead Data Scientist",
+        "duration_years": 3.9
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.6
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.8,
+      "interview_completion_rate": 0.85,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-08",
+      "notice_period_days": 15,
+      "profile_completeness": 0.94,
+      "github_activity_score": 41.6
+    }
+  },
+  {
+    "candidate_id": "CAND_175",
+    "name": "Amelia Park",
+    "current_title": "Software Engineer (ML)",
+    "years_of_experience": 3.7,
+    "skills": [
+      "LLMs",
+      "Python",
+      "Natural Language Processing",
+      "TensorFlow"
+    ],
+    "career_history": [
+      {
+        "title": "Software Engineer (ML)",
+        "duration_years": 3.7
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.81,
+      "interview_completion_rate": 0.73,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-01-07",
+      "notice_period_days": 60,
+      "profile_completeness": 0.99,
+      "github_activity_score": 90.4
+    }
+  },
+  {
+    "candidate_id": "CAND_176",
+    "name": "Sophia Hernandez",
+    "current_title": "Principal AI Researcher",
+    "years_of_experience": 6.6,
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "PyTorch",
+      "Computer Vision",
+      "Neural Networks",
+      "TensorFlow",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Principal AI Researcher",
+        "duration_years": 4.0
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.6
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.84,
+      "interview_completion_rate": 0.81,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-24",
+      "notice_period_days": 45,
+      "profile_completeness": 0.65,
+      "github_activity_score": 18.6
+    }
+  },
+  {
+    "candidate_id": "CAND_177",
+    "name": "Raj Kim",
+    "current_title": "Senior ML Engineer",
+    "years_of_experience": 8.5,
+    "skills": [
+      "Data Science",
+      "Machine Learning",
+      "Computer Vision",
+      "Reinforcement Learning",
+      "GPT",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 5.1
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 3.4
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.85,
+      "interview_completion_rate": 0.85,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-16",
+      "notice_period_days": 30,
+      "profile_completeness": 0.77,
+      "github_activity_score": 26.6
+    }
+  },
+  {
+    "candidate_id": "CAND_178",
+    "name": "Sophia Williams",
+    "current_title": "QA Engineer",
+    "years_of_experience": 5.9,
+    "skills": [
+      "Marketing",
+      "CSS",
+      "Git",
+      "Node.js",
+      "HTML",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "QA Engineer",
+        "duration_years": 5.9
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.87,
+      "interview_completion_rate": 0.65,
+      "open_to_work_flag": true,
+      "last_active_date": "2025-09-19",
+      "notice_period_days": 0,
+      "profile_completeness": 0.92,
+      "github_activity_score": 83.7
+    }
+  },
+  {
+    "candidate_id": "CAND_179",
+    "name": "Olivia Taylor",
+    "current_title": "Lead Data Scientist",
+    "years_of_experience": 10.1,
+    "skills": [
+      "Scikit-Learn",
+      "BERT",
+      "Data Science",
+      "Git",
+      "Docker",
+      "PyTorch",
+      "Computer Vision",
+      "TensorFlow",
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Lead Data Scientist",
+        "duration_years": 4.0
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 4.0
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.0
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.66,
+      "interview_completion_rate": 0.74,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-04-29",
+      "notice_period_days": 120,
+      "profile_completeness": 0.72,
+      "github_activity_score": 95.4
+    }
+  },
+  {
+    "candidate_id": "CAND_180",
+    "name": "Ava Williams",
+    "current_title": "Computer Vision Engineer",
+    "years_of_experience": 3.7,
+    "skills": [
+      "LLMs",
+      "Machine Learning",
+      "Transformers",
+      "PyTorch",
+      "Python",
+      "GPT",
+      "TensorFlow",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Computer Vision Engineer",
+        "duration_years": 3.7
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.58,
+      "interview_completion_rate": 0.6,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-10-06",
+      "notice_period_days": 45,
+      "profile_completeness": 0.96,
+      "github_activity_score": 11.1
+    }
+  },
+  {
+    "candidate_id": "CAND_181",
+    "name": "Chen Tanaka",
+    "current_title": "DevOps Engineer",
+    "years_of_experience": 5.3,
+    "skills": [
+      "LLMs",
+      "Computer Vision",
+      "Python",
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "career_history": [
+      {
+        "title": "DevOps Engineer",
+        "duration_years": 5.3
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.37,
+      "interview_completion_rate": 0.46,
+      "open_to_work_flag": true,
+      "notice_period_days": 120,
+      "profile_completeness": 0.77,
+      "github_activity_score": 40.9
+    }
+  },
+  {
+    "candidate_id": "CAND_182",
+    "name": "James Martin",
+    "current_title": "Principal AI Researcher",
+    "years_of_experience": 10.7,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "Git",
+      "Computer Vision",
+      "Python",
+      "Neural Networks",
+      "Machine Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Principal AI Researcher",
+        "duration_years": 4.3
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 4.3
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.1
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.79,
+      "interview_completion_rate": 0.42,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-07-11",
+      "notice_period_days": 15,
+      "profile_completeness": 0.52,
+      "github_activity_score": 52.8
+    }
+  },
+  {
+    "candidate_id": "CAND_183",
+    "name": "Sophia Kim",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 5.8,
+    "skills": [
+      "Data Science",
+      "Transformers",
+      "Computer Vision",
+      "TensorFlow",
+      "Reinforcement Learning",
+      "GPT",
+      "Python",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 3.5
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 2.3
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.81,
+      "interview_completion_rate": 0.94,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-27",
+      "notice_period_days": 30,
+      "profile_completeness": 0.71,
+      "github_activity_score": 68.1
+    }
+  },
+  {
+    "candidate_id": "CAND_184",
+    "name": "Mei Smith",
+    "current_title": "Senior ML Engineer",
+    "years_of_experience": 7.8,
+    "skills": [
+      "BERT",
+      "Transformers",
+      "Computer Vision",
+      "PyTorch",
+      "Neural Networks",
+      "Python",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 4.7
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 3.1
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.85,
+      "interview_completion_rate": 0.9,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-30",
+      "notice_period_days": 30,
+      "profile_completeness": 0.73,
+      "github_activity_score": 92.6
+    }
+  },
+  {
+    "candidate_id": "CAND_185",
+    "name": "Chen Moore",
+    "current_title": "ML Engineer",
+    "years_of_experience": 3.2,
+    "skills": [
+      "Scikit-Learn",
+      "BERT",
+      "Machine Learning",
+      "GPT",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "ML Engineer",
+        "duration_years": 3.2
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.41,
+      "interview_completion_rate": 0.94,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-02-04",
+      "notice_period_days": 0,
+      "profile_completeness": 0.69,
+      "github_activity_score": 24.7
+    }
+  },
+  {
+    "candidate_id": "CAND_186",
+    "name": "Sofia Taylor",
+    "current_title": "Senior ML Engineer",
+    "years_of_experience": 5.0,
+    "skills": [
+      "BERT",
+      "Data Science",
+      "Transformers",
+      "Computer Vision",
+      "Python",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "GPT",
+      "Machine Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 3.0
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 2.0
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.87,
+      "interview_completion_rate": 0.85,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-17",
+      "notice_period_days": 45,
+      "profile_completeness": 0.82,
+      "github_activity_score": 64.1
+    }
+  },
+  {
+    "candidate_id": "CAND_187",
+    "name": "Anjali Li",
+    "current_title": "Principal AI Researcher",
+    "years_of_experience": 13.1,
+    "skills": [
+      "BERT",
+      "Data Science",
+      "Docker",
+      "Transformers",
+      "Python",
+      "Neural Networks",
+      "Machine Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Principal AI Researcher",
+        "duration_years": 5.2
+      },
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 5.2
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.6
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.71,
+      "interview_completion_rate": 0.4,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-09-15",
+      "notice_period_days": 90,
+      "profile_completeness": 0.8,
+      "github_activity_score": 35.4
+    }
+  },
+  {
+    "candidate_id": "CAND_188",
+    "name": "Alexander Miller",
+    "current_title": "Senior ML Engineer",
+    "years_of_experience": 7.6,
+    "skills": [
+      "LLMs",
+      "Scikit-Learn",
+      "Data Science",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "Python",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 4.6
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 3.0
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.87,
+      "interview_completion_rate": 0.94,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-05-18",
+      "notice_period_days": 60,
+      "profile_completeness": 0.84,
+      "github_activity_score": 74.9
+    }
+  },
+  {
+    "candidate_id": "CAND_189",
+    "name": "Emily Taylor",
+    "current_title": "Computer Vision Engineer",
+    "years_of_experience": 3.8,
+    "skills": [
+      "Scikit-Learn",
+      "BERT",
+      "PyTorch",
+      "Python",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Computer Vision Engineer",
+        "duration_years": 3.8
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.42,
+      "interview_completion_rate": 0.79,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-01-30",
+      "notice_period_days": 0,
+      "profile_completeness": 0.74,
+      "github_activity_score": 76.7
+    }
+  },
+  {
+    "candidate_id": "CAND_190",
+    "name": "Emily Davis",
+    "current_title": "Software Engineer",
+    "years_of_experience": 3.8,
+    "skills": [
+      "Marketing",
+      "CSS",
+      "Git",
+      "Node.js",
+      "HTML",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Software Engineer",
+        "duration_years": 3.8
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.51,
+      "interview_completion_rate": 0.87,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-12-21",
+      "notice_period_days": 30,
+      "profile_completeness": 0.79,
+      "github_activity_score": 51.7
+    }
+  },
+  {
+    "candidate_id": "CAND_191",
+    "name": "Elizabeth Taylor",
+    "current_title": "Lead Data Scientist",
+    "years_of_experience": 8.6,
+    "skills": [
+      "PyTorch",
+      "Computer Vision",
+      "Python",
+      "Neural Networks",
+      "GPT",
+      "TensorFlow",
+      "Deep Learning"
+    ],
+    "career_history": [
+      {
+        "title": "Lead Data Scientist",
+        "duration_years": 5.2
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 3.4
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.87,
+      "interview_completion_rate": 1.0,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-29",
+      "notice_period_days": 15,
+      "profile_completeness": 0.7,
+      "github_activity_score": 61.2
+    }
+  },
+  {
+    "candidate_id": "CAND_192",
+    "name": "Avery Rodriguez",
+    "current_title": "Lead Data Scientist",
+    "years_of_experience": 7.5,
+    "skills": [
+      "Scikit-Learn",
+      "Data Science",
+      "Transformers",
+      "Computer Vision",
+      "GPT",
+      "Python",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Lead Data Scientist",
+        "duration_years": 4.5
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 3.0
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.99,
+      "interview_completion_rate": 0.98,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-06-28",
+      "notice_period_days": 30,
+      "profile_completeness": 0.88,
+      "github_activity_score": 17.9
+    }
+  },
+  {
+    "candidate_id": "CAND_193",
+    "name": "Emma Patel",
+    "current_title": "Software Engineer",
+    "years_of_experience": 4.2,
+    "skills": [
+      "React",
+      "Marketing",
+      "Git",
+      "Node.js",
+      "SQL",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Software Engineer",
+        "duration_years": 4.2
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.46,
+      "interview_completion_rate": 0.93,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-04-24",
+      "notice_period_days": 0,
+      "profile_completeness": 0.69,
+      "github_activity_score": 63.0
+    }
+  },
+  {
+    "candidate_id": "CAND_194",
+    "name": "Anjali Hernandez",
+    "current_title": "Software Engineer (ML)",
+    "years_of_experience": 4.6,
+    "skills": [
+      "Scikit-Learn",
+      "GPT",
+      "Python",
+      "TensorFlow"
+    ],
+    "career_history": [
+      {
+        "title": "Software Engineer (ML)",
+        "duration_years": 4.6
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.78,
+      "interview_completion_rate": 0.48,
+      "open_to_work_flag": false,
+      "last_active_date": "2025-12-28",
+      "notice_period_days": 120,
+      "profile_completeness": 0.59,
+      "github_activity_score": 95.3
+    }
+  },
+  {
+    "candidate_id": "CAND_195",
+    "name": "Lucas Sato",
+    "current_title": "AI Engineer",
+    "years_of_experience": 5.2,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "Data Science",
+      "Machine Learning",
+      "PyTorch",
+      "Computer Vision",
+      "Reinforcement Learning",
+      "GPT",
+      "Python",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "AI Engineer",
+        "duration_years": 3.1
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 2.1
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.85,
+      "interview_completion_rate": 0.94,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-10",
+      "notice_period_days": 15,
+      "profile_completeness": 0.63,
+      "github_activity_score": 58.1
+    }
+  },
+  {
+    "candidate_id": "CAND_196",
+    "name": "Sofia Sharma",
+    "current_title": "Senior ML Engineer",
+    "years_of_experience": 7.5,
+    "skills": [
+      "Scikit-Learn",
+      "LLMs",
+      "Computer Vision",
+      "PyTorch",
+      "Reinforcement Learning",
+      "Python"
+    ],
+    "career_history": [
+      {
+        "title": "Senior ML Engineer",
+        "duration_years": 4.5
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 3.0
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.84,
+      "interview_completion_rate": 0.85,
+      "open_to_work_flag": false,
+      "last_active_date": "2026-06-07",
+      "notice_period_days": 30,
+      "profile_completeness": 0.95,
+      "github_activity_score": 56.0
+    }
+  },
+  {
+    "candidate_id": "CAND_197",
+    "name": "Sofia Martinez",
+    "current_title": "Principal AI Researcher",
+    "years_of_experience": 8.6,
+    "skills": [
+      "Scikit-Learn",
+      "BERT",
+      "Data Science",
+      "Machine Learning",
+      "Transformers",
+      "Computer Vision",
+      "PyTorch",
+      "Python",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "TensorFlow"
+    ],
+    "career_history": [
+      {
+        "title": "Principal AI Researcher",
+        "duration_years": 5.2
+      },
+      {
+        "title": "Software Engineer",
+        "duration_years": 3.4
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.85,
+      "interview_completion_rate": 0.81,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-11",
+      "notice_period_days": 15,
+      "profile_completeness": 0.5,
+      "github_activity_score": 70.4
+    }
+  },
+  {
+    "candidate_id": "CAND_198",
+    "name": "Jacob Wang",
+    "current_title": "QA Engineer",
+    "years_of_experience": 5.3,
+    "skills": [
+      "React",
+      "CSS",
+      "Marketing",
+      "Git",
+      "HTML",
+      "SQL",
+      "Python",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "QA Engineer",
+        "duration_years": 5.3
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.6,
+      "interview_completion_rate": 0.47,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-06-25",
+      "notice_period_days": 120,
+      "profile_completeness": 0.57,
+      "github_activity_score": 68.2
+    }
+  },
+  {
+    "candidate_id": "CAND_199",
+    "name": "Michael Anderson",
+    "current_title": "Senior AI Engineer",
+    "years_of_experience": 7.9,
+    "skills": [
+      "LLMs",
+      "BERT",
+      "Computer Vision",
+      "Neural Networks",
+      "Python",
+      "Natural Language Processing"
+    ],
+    "career_history": [
+      {
+        "title": "Senior AI Engineer",
+        "duration_years": 4.7
+      },
+      {
+        "title": "ML Engineer",
+        "duration_years": 3.2
+      }
+    ],
+    "redrob_signals": {
+      "recruiter_response_rate": 0.89,
+      "interview_completion_rate": 0.92,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-17",
+      "notice_period_days": 15,
+      "profile_completeness": 0.58,
+      "github_activity_score": 21.9
+    }
+  },
+  {
+    "candidate_id": "CAND_200",
+    "name": "Isabella Thomas",
+    "current_title": "QA Engineer",
+    "years_of_experience": 8.9,
+    "skills": [
+      "LLMs",
+      "Scikit-Learn",
+      "Deep Learning",
+      "Machine Learning",
+      "Natural Language Processing",
+      "Computer Vision"
+    ],
+    "career_history": [
+      {
+        "title": "QA Engineer",
+        "duration_years": 8.9
+      }
+    ],
+    "redrob_signals": {
+      "interview_completion_rate": 0.65,
+      "open_to_work_flag": true,
+      "last_active_date": "2026-05-28",
+      "notice_period_days": 30,
+      "profile_completeness": 0.83,
+      "github_activity_score": 11.1
+    }
+  }
+]
